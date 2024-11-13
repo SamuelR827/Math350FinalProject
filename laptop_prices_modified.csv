@@ -1,0 +1,1276 @@
+ID,Company,TypeName,Inches,Ram,Weight,Price_euros,Screen,Touchscreen,CPU_freq,PrimaryStorage,PrimaryStorageType
+0,Apple,Ultrabook,13.3,8,1.37,1339.69,Standard,No,2.3,128,SSD
+1,Apple,Ultrabook,13.3,8,1.34,898.94,Standard,No,1.8,128,Flash Storage
+2,HP,Notebook,15.6,8,1.86,575,Full HD,No,2.5,256,SSD
+3,Apple,Ultrabook,15.4,16,1.83,2537.45,Standard,No,2.7,512,SSD
+4,Apple,Ultrabook,13.3,8,1.37,1803.6,Standard,No,3.1,256,SSD
+5,Acer,Notebook,15.6,4,2.1,400,Standard,No,3,500,HDD
+6,Apple,Ultrabook,15.4,16,2.04,2139.97,Standard,No,2.2,256,Flash Storage
+7,Apple,Ultrabook,13.3,8,1.34,1158.7,Standard,No,1.8,256,Flash Storage
+8,Asus,Ultrabook,14,16,1.3,1495,Full HD,No,1.8,512,SSD
+9,Acer,Ultrabook,14,8,1.6,770,Full HD,No,1.6,256,SSD
+10,HP,Notebook,15.6,4,1.86,393.9,Standard,No,2.5,500,HDD
+11,HP,Notebook,15.6,4,1.86,344.99,Full HD,No,2,500,HDD
+12,Apple,Ultrabook,15.4,16,1.83,2439.97,Standard,No,2.8,256,SSD
+13,Dell,Notebook,15.6,4,2.2,498.9,Full HD,No,2,256,SSD
+14,Apple,Ultrabook,12,8,0.92,1262.4,Standard,No,1.2,256,SSD
+15,Apple,Ultrabook,13.3,8,1.37,1518.55,Standard,No,2.3,256,SSD
+16,Dell,Notebook,15.6,8,2.2,745,Full HD,No,2.7,256,SSD
+17,Apple,Ultrabook,15.4,16,1.83,2858,Standard,No,2.9,512,SSD
+18,Lenovo,Notebook,15.6,8,2.2,499,Full HD,No,2.4,1024,HDD
+19,Dell,Ultrabook,13.3,8,1.22,979,Full HD,Yes,1.6,128,SSD
+20,Asus,Netbook,11.6,2,0.98,191.9,Standard,No,1.44,32,Flash Storage
+21,Lenovo,Gaming,15.6,8,2.5,999,Full HD,No,2.5,128,SSD
+22,HP,Notebook,15.6,4,1.86,258,Standard,No,1.5,500,HDD
+23,Dell,2 in 1 Convertible,13.3,8,1.62,819,Full HD,Yes,1.6,256,SSD
+24,HP,Ultrabook,15.6,8,1.91,659,Full HD,No,1.8,256,SSD
+25,Dell,Notebook,15.6,4,2.3,418.64,Standard,No,2,1024,HDD
+26,Apple,Ultrabook,13.3,8,1.35,1099,Standard,No,1.6,128,Flash Storage
+27,Dell,Notebook,15.6,8,2.2,800,Full HD,No,1.6,256,SSD
+28,Dell,Ultrabook,15.6,8,1.88,1298,Full HD,No,1.9,256,SSD
+29,HP,Notebook,17.3,8,2.5,896,Full HD,No,1.6,1024,HDD
+30,Chuwi,Notebook,15.6,4,1.89,244.99,Full HD,No,1.44,64,Flash Storage
+31,Asus,Notebook,14,2,1.65,199,Standard,No,1.5,32,Flash Storage
+32,HP,Notebook,17.3,4,2.71,439,Full HD,No,2.5,500,HDD
+33,Dell,Ultrabook,13.3,16,1.2,1869,Quad HD+,Yes,1.8,512,SSD
+34,Apple,Ultrabook,13.3,8,1.35,998,Standard,No,1.6,256,Flash Storage
+35,Lenovo,Notebook,14,4,1.44,249,Standard,No,1.1,64,Flash Storage
+36,Acer,Notebook,15.6,4,2.1,367,Standard,No,2.7,1024,HDD
+37,Dell,Notebook,17.3,8,2.8,979,Full HD,No,1.6,128,SSD
+38,HP,Notebook,15.6,4,1.86,488.69,Standard,No,2.5,1024,HDD
+39,HP,Notebook,15.6,8,2.1,879,Full HD,No,1.6,256,SSD
+40,Asus,Notebook,15.6,4,2,389,Full HD,No,2,1024,HDD
+41,Dell,Gaming,15.6,16,2.65,1499,Full HD,No,2.8,256,SSD
+42,Asus,Notebook,15.6,8,2.3,522.99,Standard,No,2.5,1024,HDD
+43,Acer,Notebook,15.6,4,2.2,682,Full HD,No,1.6,256,SSD
+44,Dell,2 in 1 Convertible,17.3,12,2.77,999,Full HD,Yes,1.6,1024,HDD
+45,Apple,Ultrabook,13.3,8,1.37,1419,Standard,No,2,256,SSD
+46,Lenovo,Notebook,15.6,4,2.2,369,Standard,No,2,128,SSD
+47,Asus,Gaming,17.3,8,3.2,1299,Full HD,No,3,256,SSD
+48,Dell,Notebook,15.6,4,2.3,639,Full HD,No,2.5,256,SSD
+49,Asus,Notebook,17.3,4,2.8,466,Standard,No,1.1,1024,HDD
+50,Lenovo,2 in 1 Convertible,10.1,4,0.69,319,Standard,Yes,1.44,64,Flash Storage
+51,Acer,Notebook,15.6,8,2.2,841,Full HD,No,1.8,256,SSD
+52,HP,Notebook,15.6,4,1.86,398.49,Full HD,No,2.5,256,SSD
+53,HP,Notebook,13.3,8,1.49,1103,Full HD,No,1.8,512,SSD
+54,Acer,Notebook,15.6,4,2.4,384,Standard,No,2.4,1024,HDD
+55,Dell,Notebook,15.6,8,2.13,767.8,Full HD,No,1.8,256,SSD
+56,HP,Notebook,15.6,4,1.91,439,Full HD,No,2,128,SSD
+57,Asus,Notebook,15.6,4,2,586.19,Standard,No,2.5,256,SSD
+58,MSI,Gaming,17.3,16,2.43,2449,Full HD,No,2.8,256,SSD
+59,Asus,Notebook,15.6,4,2,415,Full HD,No,2,256,SSD
+60,Dell,Notebook,17.3,16,2.8,1299,Full HD,No,1.8,256,SSD
+61,Dell,Ultrabook,14,8,1.7,879,Full HD,No,1.6,256,SSD
+62,Lenovo,Notebook,14,8,1.7,599,Full HD,No,2.7,256,SSD
+63,Asus,Notebook,14,8,1.4,941,Full HD,No,1.6,256,SSD
+64,HP,Notebook,15.6,8,1.86,690,Full HD,No,2.5,256,SSD
+65,Asus,Ultrabook,15.6,16,1.8,1983,Full HD,No,2.8,512,SSD
+66,HP,Notebook,15.6,4,1.86,438.69,Standard,No,2,500,HDD
+67,HP,Notebook,14,4,1.44,229,Standard,No,1.6,32,SSD
+68,Lenovo,Notebook,15.6,4,1.9,549,Full HD,No,2.5,1024,HDD
+69,Asus,Gaming,17.3,12,3,949,Full HD,No,2.8,1024,HDD
+70,Microsoft,Ultrabook,13.5,4,1.252,1089,Standard,Yes,2.5,128,SSD
+71,Dell,Ultrabook,13.3,8,1.4,955,Full HD,No,1.8,256,SSD
+72,Dell,Notebook,15.6,8,2.2,870,Full HD,No,1.8,256,SSD
+73,MSI,Gaming,17.3,8,2.7,1095,Full HD,No,2.5,128,SSD
+74,Acer,Notebook,14,8,2.1,389,Standard,No,2,1024,HDD
+75,Asus,Gaming,15.6,8,2.2,949,Full HD,No,2.8,1024,HDD
+76,Lenovo,Notebook,15.6,8,2.2,519,Full HD,No,2.5,2048,HDD
+77,Dell,Notebook,15.6,8,2.02,855,Full HD,No,1.8,128,SSD
+78,Acer,Notebook,15.6,4,2.2,530,Full HD,No,2.7,1024,HDD
+79,HP,Notebook,17.3,8,2.5,977,Full HD,No,1.6,128,SSD
+80,Dell,Ultrabook,15.6,8,1.88,1096.16,Full HD,No,1.6,256,SSD
+81,Apple,Ultrabook,12,8,0.92,1510,Standard,No,1.3,512,SSD
+82,HP,Notebook,14,8,1.63,860,Full HD,No,1.6,256,SSD
+83,Lenovo,Notebook,15.6,4,2.2,399,Full HD,No,2.5,128,SSD
+84,Acer,Notebook,15.6,4,2.1,395,Standard,No,3,1024,HDD
+85,Dell,Gaming,15.6,16,2.65,1349,Full HD,No,2.8,128,SSD
+86,HP,Ultrabook,15.6,8,1.83,699,Full HD,No,1.8,256,SSD
+87,HP,Notebook,15.6,8,1.96,598.99,Full HD,No,2.5,256,SSD
+88,Asus,Gaming,15.6,16,2.2,1449,Full HD,No,2.8,128,SSD
+89,Dell,Ultrabook,13.3,8,1.21,1649,Full HD,No,1.8,256,SSD
+90,Asus,Gaming,15.6,8,2.45,699,Full HD,No,3,1024,HDD
+91,Acer,Notebook,15.6,8,2.2,689,Full HD,No,1.8,1024,HDD
+92,HP,Notebook,13.3,16,1.49,1197,Full HD,No,1.8,512,SSD
+93,Dell,Gaming,15.6,8,2.65,1195,Full HD,No,2.5,256,SSD
+94,Asus,Ultrabook,14,8,1.25,1049,Full HD,No,2.7,256,SSD
+95,Acer,2 in 1 Convertible,13.3,8,1.5,847,Full HD,Yes,1.6,256,SSD
+96,Dell,Notebook,15.6,8,2.2,599.9,Full HD,No,2.7,1024,HDD
+97,Dell,Notebook,15.6,4,2.2,485,Full HD,No,2,256,SSD
+98,Asus,Notebook,15.6,6,2,577,Full HD,No,2.4,256,SSD
+99,HP,Gaming,15.6,12,2.62,1249,Full HD,No,2.8,128,SSD
+100,HP,Notebook,15.6,8,1.91,719,Full HD,No,2.7,256,SSD
+101,HP,Notebook,15.6,4,2.1,349,Full HD,No,1.5,500,HDD
+102,Dell,Notebook,15.6,8,2.2,647,Full HD,No,1.6,1024,HDD
+103,HP,Ultrabook,13.3,8,1.38,1119,Full HD,No,2.7,256,SSD
+104,Microsoft,Ultrabook,13.5,8,1.252,1340,Standard,Yes,2.5,256,SSD
+105,HP,Notebook,14,6,1.58,659,Full HD,No,2.5,256,SSD
+106,Lenovo,Notebook,15.6,4,1.85,414.9,Full HD,No,2,1024,HDD
+107,Asus,Ultrabook,14,8,1.3,1193,Full HD,No,2.7,256,SSD
+108,MSI,Gaming,15.6,16,2.2,1299,Full HD,No,2.8,256,SSD
+109,Lenovo,Notebook,14,8,1.58,1480,Full HD,No,2.7,256,SSD
+110,Asus,Ultrabook,15.6,16,1.5,1262,Full HD,No,1.8,256,SSD
+111,Dell,Ultrabook,13.3,8,1.23,1379,Quad HD+,Yes,2.4,256,SSD
+112,Lenovo,2 in 1 Convertible,13.3,8,1.37,1399,Full HD,Yes,2.5,256,SSD
+113,HP,Notebook,14,4,1.63,722,Standard,No,1.6,500,HDD
+114,Dell,Ultrabook,13.3,8,1.21,1629,Full HD,No,1.6,256,SSD
+115,HP,2 in 1 Convertible,13.3,8,1.26,1398.99,Full HD,Yes,1.6,256,SSD
+116,HP,Notebook,14,8,1.63,1084,Full HD,No,1.8,512,SSD
+117,Dell,Notebook,15.6,8,2.16,1130.33,Full HD,No,1.8,256,SSD
+118,Asus,Notebook,17.3,4,2,564,Full HD,No,2,1024,HDD
+119,Asus,Notebook,15.6,8,1.7,1118,Full HD,No,1.8,256,SSD
+120,Acer,Notebook,15.6,6,2.1,479,Full HD,Yes,2.4,1024,HDD
+121,MSI,Gaming,15.6,16,1.8,2241.5,Full HD,No,2.8,256,SSD
+122,Lenovo,Notebook,15.6,8,2.2,629,Full HD,No,2.5,256,SSD
+123,HP,Notebook,17.3,16,2.5,1271,Full HD,No,1.8,512,SSD
+124,Acer,Notebook,15.6,4,2.1,451,Standard,No,3,256,SSD
+125,HP,Notebook,15.6,4,1.86,259,Standard,No,1.6,500,HDD
+126,HP,Notebook,14,8,1.63,812,Full HD,No,1.6,1024,HDD
+127,Asus,Notebook,14,4,1.65,277.99,Standard,No,1.5,64,SSD
+128,Dell,Notebook,17.3,16,2.8,1396,Full HD,No,1.8,256,SSD
+129,HP,Notebook,17.3,8,2.5,928,Full HD,No,1.6,256,SSD
+130,Dell,Notebook,15.6,8,2.36,638.99,Standard,No,2.5,1024,HDD
+131,Dell,Notebook,15.6,4,2.2,449,Full HD,No,2,1024,HDD
+132,Acer,Ultrabook,14,8,1.6,884,Full HD,No,1.8,256,SSD
+133,Acer,Notebook,15.6,4,2.2,572,Full HD,No,2.7,256,SSD
+134,HP,Notebook,15.6,8,2.05,598,Standard,No,2.7,1024,HDD
+135,HP,Notebook,14,8,1.63,988,Full HD,No,1.8,256,SSD
+136,Lenovo,Notebook,15.6,4,1.9,252.36,Standard,No,1.1,1024,HDD
+137,Asus,Gaming,17.3,8,3,938,Full HD,No,2.5,128,SSD
+138,Lenovo,Notebook,15.6,4,2.2,499,Full HD,No,2.5,1024,HDD
+139,HP,Notebook,13.3,4,1.32,699,Full HD,No,2.5,256,SSD
+140,Acer,Notebook,17.3,4,3,655,Full HD,No,2.7,1024,HDD
+141,Lenovo,Notebook,14,8,1.75,1116.02,Full HD,No,1.6,256,SSD
+142,Lenovo,Gaming,15.6,8,2.4,869,Full HD,No,2.8,256,SSD
+143,Toshiba,Notebook,15.6,4,2.1,602,Standard,No,2.3,500,HDD
+144,HP,Notebook,15.6,4,1.86,369,Standard,No,2.5,256,SSD
+145,Asus,Ultrabook,14,8,1.25,1099,Full HD,No,1.8,256,SSD
+146,HP,Ultrabook,12.5,8,0.97,2014,4K Ultra HD,Yes,1.2,512,SSD
+147,Asus,Notebook,15.6,4,2,344,Full HD,No,1.1,1024,HDD
+148,MSI,Gaming,17.3,16,2.9,2029,Full HD,No,2.8,256,SSD
+149,Acer,Notebook,15.6,4,2.1,447,Standard,No,2,1024,HDD
+150,Dell,Gaming,15.6,16,2.56,1249.26,Full HD,No,2.8,512,SSD
+151,Dell,Gaming,15.6,8,2.62,899,Full HD,No,2.8,1024,Hybrid
+152,Lenovo,Notebook,15.6,4,1.9,498,Standard,No,2.5,128,SSD
+153,MSI,Gaming,17.3,16,2.8,1890,Full HD,No,2.8,256,SSD
+154,HP,Ultrabook,14,4,1.48,1082,Full HD,No,2.7,256,SSD
+155,HP,Notebook,15.6,6,1.91,619,Full HD,No,1.6,256,SSD
+156,Lenovo,2 in 1 Convertible,14,4,1.74,629,Full HD,Yes,2.4,256,SSD
+157,Asus,2 in 1 Convertible,13.3,8,1.1,1315,Full HD,Yes,1.6,256,SSD
+158,Dell,2 in 1 Convertible,15.6,8,1.56,1049,Full HD,Yes,1.8,256,SSD
+159,Toshiba,Notebook,15.6,4,2.1,447,Standard,No,2.2,500,HDD
+160,Asus,Notebook,15.6,4,2.03,403,Standard,No,3,1024,HDD
+161,Acer,Notebook,17.3,4,3,805,Full HD,No,1.6,256,SSD
+162,Dell,Notebook,15.6,8,2.13,728,Full HD,No,1.6,256,SSD
+163,Lenovo,Gaming,15.6,16,2.5,1079,Full HD,No,2.8,256,SSD
+164,Acer,Notebook,15.6,4,2.1,348,Standard,No,1.1,1024,HDD
+165,MSI,Gaming,15.6,16,2.4,1799,Full HD,No,2.8,256,SSD
+166,Acer,Notebook,15.6,4,2.1,363.51,Standard,No,1.1,1024,HDD
+167,Dell,Gaming,15.6,8,2.56,1060.49,Full HD,No,2.8,128,SSD
+168,Acer,Notebook,17.3,8,3,854,Full HD,No,1.6,256,SSD
+169,HP,Notebook,13.3,4,1.49,754,Full HD,No,1.6,500,HDD
+170,Huawei,Ultrabook,13,8,1.05,1349,Full HD,No,2.5,256,SSD
+171,HP,Notebook,17.3,6,2.71,699,Full HD,No,2.5,2048,HDD
+172,Lenovo,Notebook,15.6,4,2.2,309,Standard,No,2.9,500,HDD
+173,Toshiba,Notebook,15.6,4,2,489,Standard,No,2.4,500,HDD
+174,HP,Notebook,17.3,8,2.5,923,Full HD,No,1.6,256,SSD
+175,Dell,Notebook,15.6,8,2.3,459,Standard,No,2.4,1024,HDD
+176,Acer,Notebook,15.6,4,2.1,449,Standard,No,2,128,SSD
+177,MSI,Gaming,18.4,32,4.4,2799,Full HD,No,2.9,512,SSD
+178,Lenovo,Notebook,15.6,8,1.9,813,Full HD,No,2.5,128,SSD
+179,HP,2 in 1 Convertible,13.3,8,1.29,1499,4K Ultra HD,Yes,1.6,256,SSD
+180,Dell,Notebook,15.6,16,2.02,1049,Full HD,No,1.8,256,SSD
+181,Dell,Ultrabook,13.3,8,1.23,1399,Full HD,No,1.6,256,SSD
+182,Lenovo,2 in 1 Convertible,13.9,16,1.4,1849,4K Ultra HD,Yes,1.8,512,SSD
+183,Toshiba,Notebook,15.6,8,2,793,Standard,No,2.5,128,SSD
+184,Xiaomi,Notebook,15.6,8,1.95,1199,Full HD,No,1.6,256,SSD
+185,Dell,Notebook,17.3,16,2.77,1549,Full HD,Yes,1.8,512,SSD
+186,Dell,Notebook,15.6,16,2.06,2397,4K Ultra HD,Yes,2.8,512,SSD
+187,Lenovo,Gaming,15.6,8,2.4,779,Full HD,No,2.5,256,SSD
+188,Acer,Ultrabook,13.3,8,1.12,989,Full HD,No,1.2,256,SSD
+189,Dell,Notebook,17.3,8,2.8,1085,Full HD,No,1.8,128,SSD
+190,Lenovo,2 in 1 Convertible,14,16,1.42,2824,Standard,Yes,2.7,1024,SSD
+191,Vero,Notebook,14,4,1.3,260,Full HD,No,1.1,32,Flash Storage
+192,Xiaomi,Ultrabook,13.3,8,1.3,999.9,Full HD,No,2.5,256,SSD
+193,Lenovo,Notebook,17.3,8,2.8,698,Standard,No,1.6,256,SSD
+194,Dell,2 in 1 Convertible,13.3,8,1.62,839,Full HD,Yes,1.8,1024,HDD
+195,HP,Notebook,17.3,8,2.5,914,Full HD,No,1.6,1024,HDD
+196,Razer,Gaming,17.3,32,3.49,6099,4K Ultra HD,Yes,2.9,1024,SSD
+197,HP,Notebook,13.3,8,1.49,959,Full HD,No,1.6,512,SSD
+198,HP,Gaming,17.3,16,3.35,1379,Full HD,No,2.8,256,SSD
+199,HP,Notebook,17.3,8,2.5,1045,Full HD,No,1.8,256,SSD
+200,Dell,Gaming,15.6,16,2.65,1845,4K Ultra HD,No,2.8,512,SSD
+201,Lenovo,Notebook,15.6,4,2.1,493,Standard,No,2.3,128,SSD
+202,Acer,Notebook,15.6,8,2.23,742,Full HD,No,2.7,1024,HDD
+203,Lenovo,Gaming,15.6,16,3.2,1749,Full HD,No,2.8,512,SSD
+204,Dell,Workstation,15.6,16,2.8,3055,4K Ultra HD,No,3,256,SSD
+205,Lenovo,Gaming,15.6,16,2.4,1398,Full HD,No,2.8,512,SSD
+206,Dell,Notebook,15.6,6,2.3,439,Standard,Yes,2.4,1024,HDD
+207,Dell,Ultrabook,13.3,8,1.21,1949,4K Ultra HD,Yes,1.8,256,SSD
+208,Dell,Ultrabook,13.3,8,1.2,1449,Full HD,No,1.8,256,SSD
+209,Lenovo,Notebook,15.6,8,2.2,597,Standard,No,2.5,256,SSD
+210,Acer,Notebook,15.6,8,2.4,779,Full HD,No,2.8,1024,HDD
+211,Asus,Gaming,17.3,16,2.9,1407,Full HD,No,2.8,256,SSD
+212,HP,Notebook,15.6,4,2.1,349,Full HD,No,2,500,HDD
+213,Lenovo,Notebook,15.6,8,2.2,549,Full HD,No,2.5,256,SSD
+214,Huawei,Ultrabook,13,8,1.05,1499,Full HD,No,2.7,512,SSD
+215,Dell,Ultrabook,13.3,8,1.4,931.88,Full HD,No,1.8,256,SSD
+216,Lenovo,Notebook,17.3,8,2.8,589,Standard,No,2.5,1024,HDD
+217,HP,Notebook,14,8,1.63,1031,Full HD,No,1.8,256,SSD
+218,Dell,Ultrabook,14,8,1.6,1149,Full HD,No,1.6,256,SSD
+219,Dell,2 in 1 Convertible,13.3,16,1.62,1279,Full HD,Yes,1.8,512,SSD
+220,Dell,Notebook,15.6,8,2.2,677.35,Full HD,No,1.6,256,SSD
+221,Lenovo,2 in 1 Convertible,14,8,1.74,899,Full HD,No,1.6,256,SSD
+222,Toshiba,Ultrabook,13.3,8,1.2,1363,Full HD,No,2.5,256,SSD
+223,HP,Notebook,15.6,8,2.1,794,Full HD,No,1.6,1024,HDD
+224,Dell,Gaming,17.3,16,4.42,2456.34,Full HD,No,2.8,256,SSD
+225,Acer,Notebook,15.6,8,2.2,832,Full HD,No,2.7,256,SSD
+226,Dell,Notebook,15.6,16,2.3,859.01,Full HD,Yes,2.7,1024,HDD
+227,Asus,Notebook,15.6,8,2,769,Full HD,No,2.5,256,SSD
+228,Asus,Notebook,17.3,8,2.69,891,Full HD,No,2.5,256,SSD
+229,HP,Notebook,15.6,8,1.9,1269,Full HD,No,2.7,1024,HDD
+230,Asus,Notebook,15.6,4,2.37,398.99,Standard,No,2.4,1024,HDD
+231,HP,Notebook,15.6,4,2.1,330,Standard,No,1.5,500,HDD
+232,Lenovo,Gaming,15.6,16,3.2,1499,Full HD,No,2.8,256,SSD
+233,Dell,Notebook,14,8,1.6,859,Full HD,No,2.5,256,SSD
+234,Acer,2 in 1 Convertible,13.3,8,1.6,689,Full HD,Yes,2.3,256,SSD
+235,Dell,Notebook,15.6,16,2.36,899,Full HD,No,2.7,256,SSD
+236,Acer,Notebook,15.6,4,2.1,390,Standard,No,2,1024,HDD
+237,Asus,Notebook,15.6,4,2.2,575,Full HD,No,2.5,128,SSD
+238,Asus,Gaming,17.3,32,4.7,3890,Full HD,No,2.9,512,SSD
+239,Acer,Gaming,15.6,8,2.5,846,Full HD,No,2.5,256,SSD
+240,Lenovo,Notebook,15.6,8,2.2,589,Standard,No,2,128,SSD
+241,Asus,Notebook,17.3,8,2.1,1145,Full HD,No,1.8,128,SSD
+242,Asus,Notebook,17.3,8,2.69,889,Full HD,No,2.7,128,SSD
+243,Dell,Gaming,15.6,8,2.56,879,Full HD,No,2.5,256,SSD
+244,Lenovo,2 in 1 Convertible,13.9,8,1.38,1079,Full HD,Yes,2.7,256,SSD
+245,Dell,Notebook,15.6,8,2.2,985,Full HD,No,1.8,128,SSD
+246,HP,Notebook,15.6,8,2.04,559,Standard,Yes,2.5,1024,HDD
+247,Asus,Gaming,17.3,16,3.6,2999,Full HD,No,2.9,256,SSD
+248,HP,Notebook,13.3,4,1.49,675,Full HD,No,1.6,500,HDD
+249,Apple,Ultrabook,13.3,8,1.37,2040,Standard,No,3.1,512,SSD
+250,Dell,2 in 1 Convertible,15.6,8,2.08,819,Full HD,Yes,1.8,1024,HDD
+251,Asus,Gaming,17.3,16,4.3,1799,Full HD,No,2.8,256,SSD
+252,Asus,Notebook,15.6,4,1.68,469,Standard,No,3,1024,HDD
+253,Lenovo,2 in 1 Convertible,13.9,8,1.37,1849,Full HD,Yes,1.8,512,SSD
+254,Acer,Notebook,17.3,4,3,702,Full HD,No,2.7,256,SSD
+255,Dell,Ultrabook,13.3,8,1.41,949,Full HD,No,1.6,256,SSD
+256,HP,Notebook,15.6,8,1.91,445.9,Standard,No,2.5,128,SSD
+257,HP,Notebook,17.3,16,2.9,1059,Full HD,No,1.8,1024,HDD
+258,MSI,Gaming,17.3,16,4.14,2499,Full HD,No,2.8,512,SSD
+259,Lenovo,2 in 1 Convertible,15.6,8,2,1699,Full HD,Yes,2.8,512,SSD
+260,Dell,Notebook,17.3,8,2.8,1142,Full HD,No,1.8,128,SSD
+261,Lenovo,Notebook,15.6,4,2.2,444,Full HD,No,2,256,SSD
+262,HP,Notebook,15.6,4,2.1,722,Full HD,No,1.6,500,HDD
+263,Dell,Notebook,15.6,4,2.18,657,Full HD,No,2.5,1024,HDD
+264,Dell,Notebook,15.6,8,2.24,565,Full HD,No,2.5,1024,HDD
+265,Dell,2 in 1 Convertible,15.6,8,2.67,799,Full HD,Yes,1.6,256,SSD
+266,Asus,2 in 1 Convertible,13.3,8,1.1,1499,Full HD,Yes,1.8,512,SSD
+267,Lenovo,Notebook,15.6,4,2.2,467,Full HD,No,2.5,1024,HDD
+268,HP,Notebook,17.3,8,2.5,1018,Full HD,No,1.8,1024,HDD
+269,Lenovo,Notebook,15.6,8,2.05,880,Full HD,No,1.8,256,SSD
+270,Apple,Ultrabook,13.3,8,1.37,1958.9,Standard,No,2.9,512,SSD
+271,Asus,Gaming,17.3,16,3.2,1549,Full HD,No,3,256,SSD
+272,Dell,Notebook,15.6,8,2.14,735.07,Full HD,No,1.8,256,SSD
+273,Lenovo,2 in 1 Convertible,14,16,1.36,2499,Standard,Yes,2.6,512,SSD
+274,Toshiba,Notebook,15.6,8,2.2,812,Standard,No,2.5,500,HDD
+275,Dell,Notebook,15.6,12,2.3,713.07,Standard,No,2.7,1024,HDD
+276,Dell,Notebook,17.3,8,2.8,1099,Full HD,No,1.8,128,SSD
+277,Acer,Notebook,15.6,8,2.2,745,Full HD,No,1.8,1024,HDD
+278,Lenovo,Notebook,17.3,4,2.8,489,Standard,No,2,1024,HDD
+279,Lenovo,Notebook,17.3,8,2.8,849,Full HD,No,1.8,2048,HDD
+280,Lenovo,Notebook,17.3,6,2.8,859,Standard,No,2.7,128,SSD
+281,Dell,Notebook,15.6,4,2.25,428,Full HD,No,2,1024,HDD
+282,Lenovo,Gaming,15.6,8,2.5,829,Full HD,No,2.5,256,SSD
+283,Lenovo,Notebook,15.6,6,2.2,579,Full HD,No,2.5,256,SSD
+284,Acer,Notebook,15.6,8,3,951,Full HD,No,1.8,256,SSD
+285,Acer,Notebook,15.6,12,2.15,659,Full HD,Yes,2.7,1024,HDD
+286,Lenovo,Notebook,15.6,8,1.95,1097,Full HD,No,2.7,256,SSD
+287,Asus,Ultrabook,15.6,8,1.7,977,Full HD,No,2.5,256,SSD
+288,Lenovo,Gaming,15.6,16,2.5,1179,Full HD,No,2.8,256,SSD
+289,Lenovo,Notebook,15.6,8,2.2,659.01,Full HD,No,2.7,1024,HDD
+290,Acer,Notebook,15.6,2,2.19,199,Standard,No,1.5,16,SSD
+291,Asus,Gaming,17.3,8,3,1187,Full HD,No,2.8,1024,HDD
+292,HP,Notebook,17.3,8,2.54,489,Standard,No,2,1024,HDD
+293,Dell,Notebook,15.6,8,2,1829,Full HD,No,2.8,256,SSD
+294,Lenovo,Notebook,15.6,8,2.05,739,Full HD,No,1.6,256,SSD
+295,Lenovo,Gaming,15.6,8,3.2,1299,Full HD,No,2.8,1024,HDD
+296,Acer,Notebook,15.6,8,2.5,979,Full HD,No,2.8,256,SSD
+297,Dell,Workstation,17.3,16,3.42,2884.86,Full HD,No,2.9,256,SSD
+298,Lenovo,Notebook,15.6,6,2.4,499,Full HD,No,2.4,1024,HDD
+299,Asus,Ultrabook,15.6,16,1.63,1468,Full HD,No,2.7,512,SSD
+300,Asus,Notebook,14,4,1.3,509,Standard,No,2.4,128,SSD
+301,Asus,Gaming,17.3,16,2.9,2122,Full HD,No,2.8,256,SSD
+302,Lenovo,Notebook,17.3,6,2.8,649,Standard,No,2.5,1024,HDD
+303,Lenovo,Notebook,15.6,8,2.2,549,Standard,No,2.5,2048,HDD
+304,Asus,Gaming,15.6,8,2.5,1265,Full HD,No,2.8,128,SSD
+305,Lenovo,Notebook,15.6,4,2.2,359.99,Standard,No,1.1,1024,HDD
+306,HP,2 in 1 Convertible,13.3,16,1.28,1975,Full HD,Yes,2.8,256,SSD
+307,Toshiba,Notebook,15.6,8,2.2,1043,Full HD,No,2.5,256,SSD
+308,Lenovo,Notebook,15.6,8,2.3,819,Full HD,No,2.5,128,SSD
+309,HP,Notebook,15.6,4,1.86,469,Full HD,No,2,1024,HDD
+310,Lenovo,Notebook,13.3,8,1.1,999,Full HD,No,2.5,256,SSD
+311,Dell,Ultrabook,13.3,16,1.21,2499,4K Ultra HD,Yes,1.8,1024,SSD
+312,MSI,Gaming,15.6,16,2.8,2099,Full HD,No,2.8,256,SSD
+313,Acer,Notebook,15.6,8,2.23,469,Full HD,No,2.2,256,SSD
+314,Asus,2 in 1 Convertible,11.6,2,1.1,275,Standard,Yes,1.1,32,Flash Storage
+315,Dell,Notebook,15.6,8,2.33,844,Full HD,No,1.6,128,SSD
+316,HP,2 in 1 Convertible,13.3,16,1.29,2449,4K Ultra HD,Yes,1.8,1024,SSD
+317,Lenovo,Notebook,13.3,4,1.45,459.9,Standard,No,1.6,16,Flash Storage
+318,HP,Notebook,14,8,1.95,980,Full HD,No,2.5,256,SSD
+319,Acer,Notebook,11.6,4,1.4,485,Standard,No,1.6,128,Flash Storage
+320,HP,Notebook,14,8,1.48,1292,Full HD,No,2.7,256,SSD
+321,Lenovo,Notebook,17.3,4,2.79,589,Standard,No,2.5,1024,HDD
+322,Asus,Notebook,14,8,2,1094,Full HD,No,2.7,256,SSD
+323,HP,Notebook,15.6,8,2.1,902,Full HD,No,1.8,1024,HDD
+324,Acer,Notebook,15.6,8,2.2,659,Standard,No,2.7,256,SSD
+325,Lenovo,Notebook,14,4,1.44,292,Standard,No,1.1,32,Flash Storage
+326,Acer,Notebook,15.6,6,2.23,549,Standard,No,2.5,1024,HDD
+327,Asus,Ultrabook,15.6,8,1.7,1049.9,Full HD,No,2.7,256,SSD
+328,HP,Ultrabook,12.5,8,1.26,1335,Full HD,No,2.7,256,SSD
+329,Dell,Notebook,15.6,32,2.06,2639,4K Ultra HD,Yes,2.8,1024,SSD
+330,MSI,Gaming,17.3,8,2.7,1199,Full HD,No,2.8,256,SSD
+331,Toshiba,Notebook,15.6,8,2,943,Full HD,No,2.5,256,SSD
+332,Asus,Notebook,14,8,2,1334,Full HD,No,2.7,256,SSD
+333,Lenovo,Notebook,15.6,4,1.85,449,Full HD,No,2,1024,HDD
+334,Asus,Gaming,15.6,8,2.5,999,Full HD,No,2.8,256,SSD
+335,HP,Notebook,14,8,1.48,1268,Full HD,No,2.6,256,SSD
+336,Dell,Ultrabook,15.6,8,1.9,1049,Full HD,No,1.6,128,SSD
+337,HP,Notebook,15.6,8,1.84,1144,Full HD,No,2.5,256,SSD
+338,Asus,Notebook,15.6,4,2,274.99,Standard,No,1.1,1024,HDD
+339,Dell,Notebook,15.6,8,2,1142.75,Full HD,No,1.6,256,SSD
+340,Dell,Notebook,15.6,4,2.2,274.9,Standard,No,1.6,500,HDD
+341,Lenovo,Notebook,15.6,12,2.2,899,Full HD,No,3.6,2048,HDD
+342,HP,Notebook,15.6,8,2.1,716,Full HD,No,2.4,1024,HDD
+343,Lenovo,2 in 1 Convertible,13.9,16,1.4,2099,4K Ultra HD,Yes,1.8,512,SSD
+344,Dell,Ultrabook,13.3,8,1.2,1579,Full HD,No,1.8,256,SSD
+345,Lenovo,Gaming,15.6,16,2.4,1129,Full HD,No,2.8,256,SSD
+346,HP,Notebook,14,2,1.44,279,Standard,No,1.6,32,Flash Storage
+347,Dell,Ultrabook,15.6,16,1.88,1607.96,Full HD,No,1.9,512,SSD
+348,Asus,2 in 1 Convertible,11.6,4,1.5,375,Standard,Yes,1.1,32,Flash Storage
+349,Dell,Ultrabook,15.6,8,1.9,663,Full HD,No,1.6,1024,HDD
+350,Dell,Notebook,15.6,16,2.06,2027.42,4K Ultra HD,Yes,2.8,512,SSD
+351,HP,Notebook,15.6,8,1.84,1304,Full HD,No,2.7,256,SSD
+352,MSI,Gaming,17.3,8,2.7,1409,Full HD,No,2.8,128,SSD
+353,HP,Workstation,15.6,8,2.6,1738.27,Full HD,No,2.8,256,SSD
+354,Toshiba,Notebook,15.6,16,2.4,1403,Full HD,No,2.5,512,SSD
+355,Dell,Notebook,15.6,8,2.02,970.9,Full HD,No,1.8,128,SSD
+356,Lenovo,Notebook,15.6,4,2.2,321.99,Standard,No,1.1,1024,HDD
+357,Dell,Gaming,15.6,8,2.65,999,Full HD,No,2.5,1024,HDD
+358,Dell,Notebook,15.6,8,2.36,557.37,Standard,Yes,2.5,2048,HDD
+359,Dell,Notebook,14,8,1.36,1427,Full HD,No,2.6,256,SSD
+360,HP,Notebook,15.6,4,1.86,439,Standard,No,2,500,HDD
+361,Asus,Notebook,14,8,2,945,Full HD,No,2.5,256,SSD
+362,Lenovo,Notebook,17.3,6,2.8,719,Standard,No,2.5,128,SSD
+363,HP,Notebook,15.6,8,1.86,639,Full HD,No,2.5,1024,HDD
+364,Lenovo,Notebook,15.6,8,2.2,499,Standard,No,2,256,SSD
+365,HP,Notebook,15.6,8,2.04,389,Standard,No,1.6,2048,HDD
+366,Dell,Notebook,17.3,8,2.8,1085,Full HD,No,1.6,128,SSD
+367,Lenovo,Gaming,15.6,8,2.4,809,Full HD,No,2.5,128,SSD
+368,Dell,Notebook,15.6,8,2.33,899,Full HD,No,2.7,256,SSD
+369,HP,Ultrabook,14,8,1.36,1750,Full HD,No,2.7,256,SSD
+370,Asus,2 in 1 Convertible,15.6,12,2.26,1099,Full HD,Yes,2.7,512,SSD
+371,Acer,Notebook,15.6,4,2.1,426,Standard,No,3,128,SSD
+372,Asus,Gaming,17.3,16,3.25,2199,Full HD,No,3,256,SSD
+373,Lenovo,Notebook,17.3,4,2.6,489,Standard,No,2.2,128,SSD
+374,Dell,2 in 1 Convertible,13.3,8,1.62,869.01,Full HD,Yes,1.8,256,SSD
+375,HP,Notebook,15.6,4,1.91,488.99,Full HD,No,3,256,SSD
+376,Lenovo,Netbook,11.6,4,1.59,553,Standard,No,1.1,128,SSD
+377,Dell,Notebook,15.6,4,1.8,309,Standard,No,1.6,500,HDD
+378,Asus,Notebook,14,4,1.5,286,Standard,No,1.1,32,Flash Storage
+379,Acer,Notebook,15.6,8,2.4,846,Full HD,No,2.8,1024,HDD
+380,HP,Gaming,17.3,8,3.35,1191,Full HD,No,2.8,128,SSD
+381,Lenovo,Notebook,15.6,4,1.85,403.5,Full HD,No,2,128,SSD
+382,Asus,Gaming,15.6,8,2.3,1655,Full HD,No,2.8,128,SSD
+383,Lenovo,Notebook,14,8,1.5,1099,Full HD,No,2.5,256,SSD
+384,Asus,Ultrabook,13.3,16,1.1,1748.9,Full HD,Yes,2.7,512,SSD
+385,Lenovo,Ultrabook,14,8,1.13,2282,Standard,No,2.7,512,SSD
+386,Lenovo,Notebook,13.3,4,1.5,549,Full HD,No,2.4,128,SSD
+387,Dell,Workstation,15.6,8,2.23,1369,Full HD,No,2.6,500,HDD
+388,Dell,Workstation,15.6,8,2,2135,Full HD,No,2.7,256,SSD
+389,Lenovo,2 in 1 Convertible,14,16,1.42,2509,Standard,Yes,2.7,512,SSD
+390,Asus,Gaming,17.3,8,3,1039,Full HD,No,2.8,1024,HDD
+391,Asus,Gaming,17.3,16,3,1591,Full HD,No,2.8,256,SSD
+392,Acer,Notebook,15.6,12,2.2,693.99,Standard,No,1.6,1024,HDD
+393,MSI,Gaming,17.3,8,2.7,1349,Full HD,No,2.8,256,SSD
+394,Dell,Notebook,15.6,8,2.33,778.87,Full HD,No,2.7,256,SSD
+395,HP,Ultrabook,15.6,4,1.91,499,Full HD,No,3,256,SSD
+396,Lenovo,Notebook,15.6,8,2.1,1229.56,Full HD,No,1.8,256,SSD
+397,Lenovo,Notebook,14,8,1.9,938,Full HD,No,2.5,256,SSD
+398,Dell,Workstation,15.6,8,1.78,2712,4K Ultra HD,Yes,2.8,256,SSD
+399,Lenovo,Ultrabook,14,16,1.13,2625,Standard,No,2.7,1024,SSD
+400,Lenovo,Notebook,15.6,4,2.2,306,Standard,No,1.1,1024,HDD
+401,Asus,Gaming,17.3,16,2.9,1529,Full HD,No,2.8,256,SSD
+402,Lenovo,Notebook,15.6,8,2.1,1144.5,Full HD,No,1.6,256,SSD
+403,Acer,Notebook,15.6,8,2.5,879,Full HD,No,2.8,256,SSD
+404,MSI,Gaming,17.3,16,2.8,2249,Full HD,No,2.8,256,SSD
+405,Asus,Ultrabook,14,8,1.1,1873,Full HD,No,2.7,512,SSD
+406,Toshiba,Ultrabook,13.3,16,1.2,1747,Full HD,No,2.5,512,SSD
+407,Dell,Ultrabook,14,8,1.36,1680,Full HD,No,2.8,512,SSD
+408,Lenovo,Notebook,15.6,4,2.2,409,Full HD,No,2,500,HDD
+409,Lenovo,Notebook,11.6,2,1.15,304.45,Standard,No,1.1,32,Flash Storage
+410,Lenovo,Workstation,15.6,8,2.67,1925,Full HD,No,2.8,512,SSD
+411,Lenovo,Ultrabook,14,8,1.7,1943,Full HD,No,2.8,512,SSD
+412,HP,Notebook,15.6,4,2.1,469,Full HD,No,2,1024,HDD
+413,Acer,2 in 1 Convertible,13.3,8,1.6,789.01,Full HD,Yes,2.5,256,SSD
+414,Asus,2 in 1 Convertible,13.3,8,1.27,928,Full HD,Yes,2.5,256,SSD
+415,Dell,Notebook,15.6,4,2.3,598.9,Full HD,No,2.5,256,SSD
+416,Dell,Notebook,13.3,4,1.65,689,Standard,No,2,128,SSD
+417,HP,Ultrabook,14,8,1.43,1500,Full HD,No,2.5,256,SSD
+418,Dell,Notebook,15.6,8,2.14,539.95,Standard,No,2.5,1024,HDD
+419,Lenovo,Ultrabook,14,8,1.75,1215.38,Full HD,No,1.8,256,SSD
+420,Lenovo,2 in 1 Convertible,15.6,16,2,1899,4K Ultra HD,Yes,2.8,512,SSD
+421,Chuwi,Notebook,12.3,6,1.4,449,Standard,No,1.1,64,Flash Storage
+422,HP,Notebook,15.6,8,2.31,1427,Full HD,No,2.9,256,SSD
+423,Asus,Notebook,15.6,8,2.3,597,Full HD,No,2.4,1024,HDD
+424,Dell,Gaming,17.3,16,4.42,2799,Standard,No,2.9,256,SSD
+425,Dell,Gaming,15.6,8,2.62,1159,Full HD,No,2.8,128,SSD
+426,Dell,Notebook,15.6,8,2.02,1142.4,Full HD,No,1.8,256,SSD
+427,Dell,Ultrabook,14,8,1.6,1099,Full HD,No,2.8,256,SSD
+428,HP,Gaming,17.3,12,3.35,1999,Full HD,No,2.8,256,SSD
+429,Mediacom,2 in 1 Convertible,11.6,4,1.16,299,Full HD,Yes,1.1,32,SSD
+430,Samsung,Netbook,11.6,4,1.15,269,Standard,No,1.6,16,Flash Storage
+431,Lenovo,Notebook,13.3,8,1.4,1010,Full HD,No,2.7,256,SSD
+432,Lenovo,Notebook,14,4,1.7,599,Full HD,No,2.7,128,SSD
+433,Lenovo,Workstation,15.6,16,2.3,2445,4K Ultra HD,No,2.8,512,SSD
+434,Lenovo,Notebook,15.6,16,2.5,2449,Full HD,No,2.9,512,SSD
+435,Asus,Gaming,17.3,8,3.2,1695,Full HD,No,3.2,256,SSD
+436,HP,Notebook,15.6,4,2.1,347,Standard,No,1.6,500,HDD
+437,Google,Ultrabook,12.3,16,1.1,2199,Standard,Yes,1.3,512,SSD
+438,Lenovo,Ultrabook,14,24,1.32,2382,Standard,No,2.7,512,SSD
+439,Asus,Notebook,15.6,4,2,559,Full HD,No,2.5,256,SSD
+440,Lenovo,Notebook,17.3,8,2.8,519,Standard,No,2.5,1024,HDD
+441,Dell,Notebook,15.6,4,2.2,749,Full HD,No,1.6,256,SSD
+442,Lenovo,Ultrabook,12.5,8,1.36,1429,Full HD,No,2.5,256,SSD
+443,Lenovo,Notebook,15.6,4,2.2,349,Full HD,No,1.1,128,SSD
+444,HP,Gaming,15.6,8,2.2,1099,Full HD,No,2.8,128,SSD
+445,Dell,Notebook,14,8,1.64,1179,Full HD,No,2.8,256,SSD
+446,Acer,Notebook,15.6,4,2.4,441.8,Standard,No,2.5,500,HDD
+447,Dell,Workstation,15.6,8,2.23,1993,Full HD,No,3,64,Flash Storage
+448,MSI,Gaming,15.6,8,2.2,1027.74,Full HD,No,2.5,256,SSD
+449,Microsoft,Ultrabook,13.5,16,1.25,2589,Standard,Yes,2.5,512,SSD
+450,HP,Notebook,15.6,8,1.91,589,Standard,No,2.5,128,SSD
+451,Dell,Workstation,15.6,16,2.17,1975,Full HD,No,2.7,256,SSD
+452,HP,Workstation,15.6,8,2.31,1534,Full HD,No,2.9,512,SSD
+453,Lenovo,Notebook,14,8,1.65,1345,Full HD,No,2.5,256,SSD
+454,Dell,Notebook,15.6,8,2.36,979,Full HD,No,1.8,128,SSD
+455,Dell,2 in 1 Convertible,11.6,4,1.47,479,Standard,Yes,1.6,500,HDD
+456,Dell,Notebook,17.3,8,4.42,2046,Full HD,No,2.7,1024,HDD
+457,Microsoft,Ultrabook,13.5,4,1.252,989,Standard,Yes,2.2,128,SSD
+458,Microsoft,Ultrabook,13.5,8,1.25,1799,Standard,Yes,2.5,256,SSD
+459,HP,Notebook,17.3,8,2.5,639.9,Standard,No,2,256,SSD
+460,Acer,Notebook,15.6,4,2.23,544,Full HD,No,2,1024,HDD
+461,Acer,Netbook,11.6,4,1.4,435,Standard,No,1.6,128,SSD
+462,Asus,Notebook,15.6,8,2.37,749,Full HD,No,2.5,1024,HDD
+463,Lenovo,Notebook,14,8,1.5,799,Full HD,No,2.7,512,SSD
+464,Lenovo,Notebook,15.6,8,2.67,2090,Full HD,No,2.9,256,SSD
+465,Asus,Notebook,15.6,4,2,304,Standard,No,1.1,500,HDD
+466,Acer,Notebook,15.6,4,2.2,469,Standard,No,2,500,HDD
+467,Dell,Notebook,15.6,8,2.02,759,Full HD,No,1.6,2048,HDD
+468,HP,Gaming,17.3,12,3.78,1699,Full HD,No,2.8,1024,HDD
+469,Lenovo,Ultrabook,14,12,1.4,1858,Quad HD+,No,2.6,256,SSD
+470,HP,2 in 1 Convertible,13.3,8,1.29,1999,4K Ultra HD,Yes,1.8,512,SSD
+471,HP,Notebook,15.6,8,1.9,1154,Full HD,No,2.5,500,HDD
+472,Google,Ultrabook,12.3,8,1.1,1275,Standard,Yes,1.2,128,SSD
+473,Dell,Ultrabook,13.3,8,1.42,1841.85,Full HD,Yes,1.6,256,SSD
+474,Asus,Notebook,15.6,12,2.06,1299,4K Ultra HD,No,2.6,128,SSD
+475,Dell,Notebook,14,8,1.79,740,Standard,No,2.3,128,SSD
+476,Dell,Workstation,15.6,8,1.78,2408,Full HD,No,2.8,256,SSD
+477,Lenovo,Notebook,14,8,1.7,1364,Full HD,No,2.5,180,SSD
+478,Dell,Notebook,15.6,8,2.2,675,Full HD,No,1.6,1024,HDD
+479,Toshiba,Notebook,13.3,8,1.05,1672,Full HD,No,2.5,256,SSD
+480,Dell,Notebook,15.6,8,2.16,1262,Full HD,No,1.8,512,SSD
+481,Dell,Notebook,15.6,4,2.18,586.6,Standard,No,2.4,1024,HDD
+482,HP,Notebook,13.3,4,1.49,726,Full HD,No,1.6,128,SSD
+483,Chuwi,Notebook,15.6,4,1.89,248.9,Full HD,No,1.44,64,Flash Storage
+484,Lenovo,Notebook,15.6,4,2.3,565,Standard,No,2,128,SSD
+485,Lenovo,Notebook,14,8,1.75,1049,Full HD,No,1.6,256,SSD
+486,Dell,Workstation,15.6,16,2.17,2338,Full HD,No,2.7,512,SSD
+487,Dell,Notebook,15.6,16,2.06,1899,Full HD,No,2.8,512,SSD
+488,Lenovo,Ultrabook,12.5,16,1.36,1798,Full HD,No,2.7,512,SSD
+489,Asus,Ultrabook,12.5,16,0.91,1950,Full HD,No,2.7,512,SSD
+490,Lenovo,Notebook,15.6,8,2.3,1011.99,Full HD,No,2.5,256,SSD
+491,Toshiba,Ultrabook,13.3,32,1.05,2799,Full HD,Yes,2.7,512,SSD
+492,Asus,Gaming,15.6,8,1.99,1350,Full HD,No,2.8,128,SSD
+493,Acer,Notebook,15.6,8,2.2,579,Standard,No,2.5,1024,HDD
+494,Asus,Gaming,17.3,24,4.33,1269,Full HD,Yes,2.6,256,SSD
+495,Lenovo,Ultrabook,12.5,8,1.3,1099,Standard,No,2.3,180,SSD
+496,Lenovo,Notebook,15.6,8,2.17,898.9,Full HD,No,1.8,256,SSD
+497,HP,Notebook,14,8,1.48,1749,Full HD,No,2.8,1024,SSD
+498,Lenovo,Notebook,13.3,8,1.4,949,Full HD,No,2.4,256,SSD
+499,Lenovo,Notebook,15.6,8,2.3,911,Full HD,No,2.5,256,SSD
+500,Asus,Netbook,11.6,4,1.2,340,Standard,No,1.1,64,Flash Storage
+501,HP,Notebook,15.6,8,1.91,618.99,Standard,No,2.5,256,SSD
+502,Lenovo,2 in 1 Convertible,13.9,8,1.4,1599,Full HD,Yes,1.6,256,SSD
+503,Lenovo,Notebook,14,4,2.1,299,Standard,No,1.1,500,HDD
+504,Lenovo,Netbook,11.6,4,1.25,265,Standard,No,1.6,16,SSD
+505,Lenovo,Notebook,13.3,8,1.44,949,Full HD,No,2.5,256,SSD
+506,Asus,Notebook,15.6,8,2,1224,Full HD,No,2.7,256,SSD
+507,Acer,Notebook,15.6,4,2.2,613,Full HD,No,1.6,1024,HDD
+508,HP,Ultrabook,13.3,8,1.34,1323,Full HD,No,2.7,512,SSD
+509,Lenovo,Gaming,15.6,8,2.4,1149,Full HD,No,2.8,256,SSD
+510,Dell,Ultrabook,13.3,8,1.29,899,Full HD,Yes,2.5,128,SSD
+511,Acer,Notebook,15.6,4,2.2,639,Full HD,No,2.7,500,HDD
+512,Dell,Notebook,15.6,8,2.18,836,Full HD,No,2.5,1024,HDD
+513,Dell,Notebook,15.6,16,2.2,1219.24,Full HD,No,1.8,256,SSD
+514,Xiaomi,Notebook,15.6,16,1.95,1399.95,Full HD,No,1.8,256,SSD
+515,Asus,Netbook,11.6,2,1.1,245,Standard,No,1.1,32,Flash Storage
+516,HP,Notebook,15.6,4,2.04,521.47,Standard,Yes,1.6,1024,HDD
+517,Asus,Gaming,15.6,24,2.24,2968,Full HD,No,2.8,512,SSD
+518,HP,Notebook,15.6,8,2.04,889,Full HD,No,2.5,256,SSD
+519,Asus,Gaming,17.3,16,3,1504,Full HD,No,2.8,256,SSD
+520,Lenovo,Gaming,15.6,8,3.2,1399,Full HD,No,2.8,256,SSD
+521,HP,Ultrabook,13.3,8,1.32,1399,Full HD,No,2.7,256,SSD
+522,Dell,Notebook,14,8,1.64,1279.73,Full HD,No,2.6,256,SSD
+523,HP,Notebook,15.6,4,1.63,689,Standard,No,2,128,SSD
+524,Dell,Notebook,17.3,8,2.8,889,Full HD,No,1.6,128,SSD
+525,Lenovo,Notebook,14,8,2.02,1340,Full HD,No,2.3,256,SSD
+526,Lenovo,Notebook,15.6,4,2.2,799,Full HD,No,2.7,1024,HDD
+527,Lenovo,Notebook,15.6,8,2.2,459,Standard,No,2,2048,HDD
+528,Dell,Notebook,15.6,4,2.3,585,Full HD,No,2.5,500,HDD
+529,Dell,Notebook,15.6,8,1.9,1377,Full HD,No,2.8,256,SSD
+530,Dell,Gaming,17.3,16,4.42,3012.77,Full HD,No,2.8,128,SSD
+531,Toshiba,Notebook,15.6,8,2,860,Full HD,No,2.5,500,HDD
+532,Asus,Notebook,15.6,8,2,1299,4K Ultra HD,No,2.7,256,SSD
+533,Mediacom,Notebook,13.3,4,1.2,369,Full HD,No,1.1,32,SSD
+534,Asus,Gaming,15.6,8,2.3,1649,Full HD,No,2.5,128,SSD
+535,Dell,Notebook,15.6,8,1.93,1369,Full HD,No,2.8,256,SSD
+536,Dell,Notebook,15.6,8,2.2,797.41,Full HD,No,1.6,256,SSD
+537,HP,Notebook,15.6,4,1.86,398.99,Full HD,No,1.6,256,SSD
+538,HP,Gaming,17.3,12,2.62,1799,Full HD,No,2.8,1024,HDD
+539,Lenovo,Notebook,14,8,1.87,859,Full HD,No,2.7,256,SSD
+540,Dell,Ultrabook,13.3,8,1.2,1399,Quad HD+,Yes,1.8,256,SSD
+541,Dell,Notebook,14,4,1.6,735.87,Full HD,No,2,128,SSD
+542,HP,Ultrabook,13.3,8,1.34,1145,Quad HD+,No,2.7,256,SSD
+543,Acer,Gaming,15.6,8,2.4,798,Full HD,No,2.5,1024,HDD
+544,Asus,Notebook,15.6,4,2,349,Standard,No,1.8,500,HDD
+545,HP,Notebook,15.6,4,2.1,705.5,Full HD,No,2.4,128,SSD
+546,Lenovo,Notebook,14,4,1.87,785,Full HD,No,2.5,500,HDD
+547,Lenovo,Notebook,15.6,4,2.15,462.35,Full HD,No,2.3,1024,HDD
+548,HP,Notebook,15.6,4,1.86,397,Full HD,No,2,500,HDD
+549,Lenovo,Notebook,15.6,8,1.99,1729,Full HD,No,2.7,512,SSD
+550,Lenovo,Notebook,15.6,4,2.2,499,Full HD,No,2,128,SSD
+551,Dell,Notebook,15.6,8,1.9,1116.99,Full HD,No,2.5,256,SSD
+552,Dell,Gaming,17.3,16,4.42,2699,Full HD,No,2.8,256,SSD
+553,HP,Notebook,17.3,8,2.65,544.15,Standard,No,2,1024,HDD
+554,HP,Notebook,17.3,8,2.63,1280,Full HD,No,2.7,1024,HDD
+555,Asus,Notebook,15.6,4,2,224,Standard,No,1.1,500,HDD
+556,Mediacom,Notebook,13.3,4,1.35,255,Full HD,No,1.44,32,Flash Storage
+557,Lenovo,Notebook,17.3,6,2.8,949,Standard,No,2.7,128,SSD
+558,HP,Notebook,15.6,6,1.91,568.9,Full HD,No,2.5,128,SSD
+559,Dell,Notebook,15.6,4,2.18,617.9,Standard,No,2,1024,HDD
+560,Acer,2 in 1 Convertible,11.6,4,1.25,349,Full HD,Yes,2,32,Flash Storage
+561,Lenovo,Notebook,15.6,4,2.05,630,Full HD,No,2.7,128,SSD
+562,HP,Ultrabook,13.3,16,1.16,1965,Quad HD+,Yes,1.2,512,SSD
+563,Lenovo,Notebook,17.3,8,3.4,2999,Full HD,No,2.8,256,SSD
+564,Asus,Notebook,15.6,8,2.5,839,Full HD,No,2.5,128,SSD
+565,Dell,Ultrabook,13.3,8,1.21,1599,4K Ultra HD,Yes,1.6,128,SSD
+566,Dell,Notebook,15.6,4,1.93,959,Standard,No,2.6,500,HDD
+567,Fujitsu,Notebook,15.6,8,2.2,739,Standard,No,2.5,1024,HDD
+568,Lenovo,Notebook,15.6,4,2.2,344,Full HD,No,1.1,500,HDD
+569,Lenovo,Notebook,14,4,2.02,990,Standard,No,2.5,500,HDD
+570,HP,Workstation,17.3,8,3.14,1860.99,Standard,No,2.8,500,HDD
+571,HP,Notebook,14,8,1.94,389,Standard,No,1.6,2048,HDD
+572,HP,Notebook,15.6,6,1.95,649,Full HD,No,3,256,SSD
+573,Lenovo,Notebook,15.6,8,2.3,830,Full HD,No,2.5,256,SSD
+574,Lenovo,Notebook,15.6,4,2.05,685,Full HD,No,1.6,500,HDD
+575,Mediacom,Notebook,14,4,1.4,249,Full HD,No,1.44,32,SSD
+576,Toshiba,Ultrabook,14,16,1.24,1865,Full HD,Yes,2.7,512,SSD
+577,Lenovo,Gaming,17.3,32,4.6,2663,Full HD,No,2.7,256,SSD
+578,MSI,Gaming,17.3,16,4.14,2729,Full HD,No,2.9,512,SSD
+579,Dell,Notebook,15.6,8,2.2,749.01,Full HD,No,2.7,256,SSD
+580,Mediacom,Notebook,14,4,1.45,389,Full HD,No,1.1,32,SSD
+581,Dell,Notebook,15.6,8,1.9,1008.52,Standard,No,2.6,500,HDD
+582,HP,Notebook,13.3,4,1.49,719,Full HD,No,2.4,128,SSD
+583,Dell,Notebook,15.6,16,1.93,1537.39,Full HD,No,2.8,256,SSD
+584,Dell,Netbook,11.6,4,1.26,295,Standard,No,1.6,16,Flash Storage
+585,MSI,Gaming,17.3,16,4.5,2349,Full HD,No,2.7,128,SSD
+586,HP,Gaming,17.3,16,3.78,1498,Full HD,No,2.8,256,SSD
+587,Lenovo,Ultrabook,14,12,1.4,1673,Full HD,No,2.6,256,SSD
+588,Lenovo,Notebook,15.6,12,2.2,609,Standard,Yes,1.8,1024,HDD
+589,Asus,Gaming,17.3,8,2.73,1770,Full HD,No,2.5,128,SSD
+590,Asus,2 in 1 Convertible,15.6,8,2.2,739,Standard,Yes,2.5,1024,HDD
+591,Lenovo,Notebook,15.6,12,2.2,949,Full HD,No,3.6,512,SSD
+592,Dell,2 in 1 Convertible,11.6,4,1.39,603,Standard,Yes,1,128,SSD
+593,Samsung,Notebook,15.6,16,2.5,1699,Full HD,No,2.8,128,SSD
+594,Lenovo,Notebook,17.3,4,2.8,529,Full HD,No,2,500,HDD
+595,Lenovo,Notebook,15.6,8,2.29,459,Standard,No,2.3,1024,HDD
+596,Lenovo,2 in 1 Convertible,13.3,8,1.37,2025,Full HD,Yes,2.7,512,SSD
+597,Lenovo,Notebook,14,8,1.7,1474,Full HD,No,2.5,256,SSD
+598,Dell,2 in 1 Convertible,12.5,8,1.34,1670,Full HD,Yes,2.5,256,SSD
+599,Dell,Workstation,15.6,8,2.06,1763,Full HD,Yes,2.8,256,SSD
+600,HP,Notebook,15.6,8,1.84,1219,Full HD,No,2.7,256,SSD
+601,HP,Notebook,15.6,4,2.1,668.48,Standard,No,2.4,500,HDD
+602,Acer,Notebook,14,4,1.6,329,Full HD,No,1.1,32,Flash Storage
+603,MSI,Gaming,17.3,16,4.14,2199,Full HD,No,2.7,128,SSD
+604,Dell,Notebook,15.6,4,2.18,465,Standard,No,2,1024,HDD
+605,MSI,Gaming,15.6,16,1.8,2299,4K Ultra HD,No,2.8,256,SSD
+606,Toshiba,Notebook,15.6,8,2.2,1399,Full HD,No,2.5,256,SSD
+607,Lenovo,Notebook,15.6,6,2.4,564,Full HD,No,2.5,1024,HDD
+608,Lenovo,2 in 1 Convertible,15.6,8,2,1299,Full HD,Yes,2.8,256,SSD
+609,Acer,Notebook,14,4,1.6,349,Standard,No,1.6,128,Flash Storage
+610,Lenovo,Notebook,15.6,32,2.5,4899,4K Ultra HD,No,3.1,1024,SSD
+611,Dell,Gaming,15.6,16,2.59,879.01,Full HD,No,2.6,1024,HDD
+612,Dell,Notebook,15.6,4,2.18,443.9,Standard,No,2,1024,HDD
+613,Dell,Notebook,15.6,4,2.25,359,Standard,No,2,1024,HDD
+614,Dell,Notebook,15.6,4,1.93,869,Standard,No,2.6,500,HDD
+615,Asus,Gaming,17.3,8,3,1168,Full HD,No,2.8,128,SSD
+616,Dell,Notebook,15.6,4,2.18,569,Full HD,No,2.5,128,SSD
+617,HP,Ultrabook,15.6,8,1.84,1389,Full HD,No,2.7,512,SSD
+618,MSI,Gaming,15.6,16,2.94,2267.86,Full HD,No,2.8,256,SSD
+619,Acer,2 in 1 Convertible,11.6,4,1.25,379,Standard,Yes,1.6,32,Flash Storage
+620,HP,Notebook,14,8,2.31,1124,Standard,No,2.6,256,SSD
+621,Lenovo,Notebook,14,8,1.65,1465,Full HD,No,2.3,256,SSD
+622,Dell,Notebook,15.6,4,2.2,776,Full HD,No,1.6,1024,HDD
+623,Fujitsu,Notebook,15.6,8,2.2,799,Standard,No,2.5,256,SSD
+624,HP,Notebook,15.6,4,1.88,932,Standard,No,2.3,500,HDD
+625,Lenovo,Notebook,15.6,8,2.2,899,Full HD,No,2.7,1024,HDD
+626,Mediacom,Notebook,14,2,1.4,239,Full HD,No,1.44,32,Flash Storage
+627,Lenovo,Notebook,15.6,4,2.2,468,Full HD,No,2.5,128,SSD
+628,Asus,2 in 1 Convertible,13.3,6,1.5,639.01,Full HD,Yes,2.5,1024,HDD
+629,Dell,Notebook,15.6,8,2,1820,Full HD,No,2.8,256,SSD
+630,Asus,Ultrabook,14,16,1.1,1900,Full HD,No,2.7,512,SSD
+631,Dell,Gaming,15.6,16,2.62,1479,Full HD,No,2.8,256,SSD
+632,Lenovo,Notebook,15.6,4,1.8,829,Full HD,No,1.6,256,SSD
+633,Lenovo,Notebook,15.6,4,2.2,579,Full HD,No,2,1024,HDD
+634,Asus,Notebook,15.6,8,2,399,Standard,No,1.1,1024,HDD
+635,Asus,Notebook,15.6,8,1.99,906.62,Full HD,No,2.5,1024,HDD
+636,Dell,Ultrabook,13.3,8,1.23,1869,Quad HD+,Yes,1.6,256,SSD
+637,Lenovo,Notebook,14,2,1.42,249,Standard,No,1.6,32,Flash Storage
+638,Lenovo,2 in 1 Convertible,13.3,8,1.37,1757.42,Full HD,Yes,2.7,256,SSD
+639,Dell,Notebook,15.6,16,2.06,2399,4K Ultra HD,Yes,2.8,1024,SSD
+640,Lenovo,Gaming,15.6,8,2.5,1109,Full HD,No,2.8,128,SSD
+641,HP,Notebook,17,8,2.6,520.9,Standard,No,3,1024,HDD
+642,Lenovo,Ultrabook,14,16,1.14,2450,Full HD,No,2.7,512,SSD
+643,Asus,Gaming,15.6,8,2.5,1169,Full HD,No,2.8,1024,HDD
+644,Acer,Notebook,15.6,4,2.4,450,Standard,No,2,500,HDD
+645,Lenovo,Notebook,14,4,1.43,274,Standard,No,1.6,32,Flash Storage
+646,Acer,Ultrabook,14,8,1.8,919,Full HD,No,2.5,256,SSD
+647,Razer,Gaming,14,16,1.95,2599,Full HD,No,2.8,256,SSD
+648,Toshiba,Notebook,13.3,8,1.2,1213,Full HD,No,2.3,256,SSD
+649,Lenovo,Ultrabook,12.5,8,1.36,1584,Full HD,No,2.7,256,SSD
+650,Asus,Gaming,17.3,32,3.8,2799,Full HD,No,2.7,512,SSD
+651,Acer,Gaming,15.6,8,2.4,709,Full HD,No,2.5,1024,HDD
+652,Dell,Ultrabook,13.3,8,1.2,1449.9,Full HD,No,1.6,256,SSD
+653,MSI,Gaming,15.6,8,2.2,1191.8,Full HD,No,2.8,128,SSD
+654,HP,Notebook,15.6,4,1.86,364.9,Standard,No,2,500,HDD
+655,Toshiba,Notebook,15.6,8,2,1064,Full HD,No,2.5,500,HDD
+656,Dell,Notebook,15.6,8,2.2,919,Full HD,No,1.8,256,SSD
+657,Dell,Notebook,15.6,16,2.2,1135,Full HD,No,1.8,256,SSD
+658,Lenovo,Gaming,15.6,8,3.31,1196,Full HD,No,2.6,128,SSD
+659,Dell,Gaming,17.3,32,4.42,3147.37,4K Ultra HD,No,2.8,512,SSD
+660,Dell,Notebook,14,8,1.56,1229,Full HD,No,2.4,256,SSD
+661,Lenovo,Notebook,15.6,4,2.2,419,Standard,No,1.1,500,HDD
+662,Lenovo,Notebook,15.6,4,2.2,535,Full HD,No,2.3,500,HDD
+663,HP,Notebook,15.6,6,2.04,539,Standard,No,2,1024,HDD
+664,MSI,Gaming,17.3,8,2.7,1486.77,Full HD,No,2.8,128,SSD
+665,Toshiba,Notebook,15.6,4,2.1,498,Standard,No,2.1,128,SSD
+666,Dell,Notebook,15.6,8,2.06,955,Full HD,No,2.5,1024,HDD
+667,HP,Notebook,15.6,8,2.1,745,Full HD,No,2.7,1024,HDD
+668,Toshiba,Notebook,15.6,8,2,1258,Full HD,No,2.5,256,SSD
+669,Acer,Notebook,15.6,4,2.1,412,Standard,No,2,128,SSD
+670,Microsoft,Ultrabook,13.5,8,1.252,1867.85,Standard,Yes,2.8,256,SSD
+671,Lenovo,Notebook,15.6,8,1.9,817.95,Full HD,No,2.5,128,SSD
+672,Lenovo,2 in 1 Convertible,13.3,8,1.3,1034,Full HD,Yes,2.5,256,SSD
+673,Lenovo,Notebook,15.6,4,2.2,349,Standard,No,2.2,128,SSD
+674,HP,2 in 1 Convertible,14,4,1.63,699,Full HD,Yes,2.4,128,SSD
+675,MSI,Gaming,15.6,16,2.4,1294,Full HD,No,2.8,256,SSD
+676,Asus,Ultrabook,14,8,1.1,1135,Full HD,No,2.5,256,SSD
+677,HP,2 in 1 Convertible,11.6,8,1.4,495,Standard,Yes,1.1,64,Flash Storage
+678,LG,Ultrabook,15.6,8,1.09,2299,Full HD,No,1.8,512,SSD
+679,Acer,Gaming,15.6,16,2.5,1299,Full HD,No,2.5,256,SSD
+680,MSI,Gaming,15.6,8,2.2,997.9,Full HD,No,2.5,256,SSD
+681,Asus,Notebook,15.6,4,1.86,419,Standard,No,1.1,128,SSD
+682,Dell,Gaming,15.6,16,3.21,2051,Full HD,No,2.5,128,SSD
+683,HP,Notebook,17.3,4,2.5,699,Full HD,No,2,256,SSD
+684,Lenovo,2 in 1 Convertible,13.3,8,1.19,1499,Full HD,Yes,1.8,512,SSD
+685,Dell,Gaming,15.6,16,3.49,2813.75,Full HD,No,2.9,256,SSD
+686,HP,Notebook,15.6,4,1.86,612.61,Standard,No,2.5,500,HDD
+687,Dell,Notebook,15.6,4,2.2,545.67,Standard,No,2,1024,HDD
+688,HP,Notebook,17.3,6,2.65,569,Full HD,No,2.4,2048,HDD
+689,Lenovo,Notebook,15.6,4,2.1,318,Standard,No,1.6,500,HDD
+690,Acer,Notebook,14,4,1.45,375,Standard,No,1.6,32,Flash Storage
+691,Lenovo,Notebook,14,4,1.7,699,Full HD,No,2.5,256,SSD
+692,HP,Workstation,17.3,8,3.14,1907.99,Full HD,No,2.8,500,HDD
+693,Lenovo,2 in 1 Convertible,14,8,1.42,2590,Standard,Yes,2.7,256,SSD
+694,Toshiba,Notebook,13.3,8,1.5,973,Full HD,No,2.5,256,SSD
+695,Acer,Netbook,11.6,4,1.4,269,Standard,No,1.6,32,Flash Storage
+696,Lenovo,2 in 1 Convertible,14,16,1.38,1749,Full HD,Yes,2.7,512,SSD
+697,Asus,2 in 1 Convertible,12.5,4,1.2,669,Full HD,Yes,0.9,64,Flash Storage
+698,Toshiba,Ultrabook,13.3,16,1.36,1877,Full HD,Yes,2.5,512,SSD
+699,HP,Notebook,15.6,4,2.1,689,Full HD,No,2.7,500,HDD
+700,Dell,Gaming,15.6,8,2.56,819,Full HD,No,2.5,1024,HDD
+701,Lenovo,Notebook,15.6,4,2.2,399,Full HD,No,2.9,256,SSD
+702,Lenovo,Notebook,15.6,8,2.2,429,Standard,No,3.6,1024,HDD
+703,Lenovo,Notebook,15.6,4,2.1,621.45,Full HD,No,2.5,1024,HDD
+704,Lenovo,Notebook,15.6,4,1.9,450,Standard,No,2,500,HDD
+705,Dell,Notebook,15.6,8,2.18,795,Full HD,No,2.5,256,SSD
+706,Acer,2 in 1 Convertible,13.3,8,1.6,999,Full HD,Yes,1.6,256,SSD
+707,Lenovo,Workstation,15.6,16,2.18,1855,Full HD,No,2.5,512,SSD
+708,Lenovo,Notebook,14,8,1.8,1191,Full HD,No,2.3,256,SSD
+709,HP,Notebook,17.3,6,2.71,655.01,Full HD,No,2.5,2048,HDD
+710,Lenovo,Gaming,15.6,8,2.5,1249,Full HD,No,2.8,128,SSD
+711,Dell,Notebook,14,8,1.64,1089,Full HD,No,2.8,256,SSD
+712,Dell,Notebook,15.6,8,1.98,726,Full HD,No,2.5,1024,HDD
+713,Asus,Notebook,14,4,1.5,298,Full HD,No,1.1,32,Flash Storage
+714,Dell,Notebook,15.6,16,1.93,1426.66,Full HD,No,2.6,512,SSD
+715,Lenovo,Notebook,14,8,1.87,857.07,Full HD,No,2.5,256,SSD
+716,Dell,Notebook,15.6,8,1.9,1179,Full HD,No,2.6,256,SSD
+717,Lenovo,Notebook,15.6,4,2.19,298,Standard,No,2,500,HDD
+718,Mediacom,Notebook,14,4,1.4,265,Full HD,No,1.92,32,HDD
+719,HP,Notebook,17.3,8,2.63,1200,Full HD,No,2.7,256,SSD
+720,Lenovo,Ultrabook,14,8,1.17,1686.64,Quad HD+,No,2.5,512,SSD
+721,HP,2 in 1 Convertible,13.3,8,1.58,836.6,Standard,Yes,2.5,256,SSD
+722,Lenovo,Ultrabook,14,8,1.32,1499,Full HD,No,2.5,256,SSD
+723,Dell,Gaming,17.3,32,4.36,3659.4,4K Ultra HD,No,2.8,1024,SSD
+724,MSI,Gaming,17.3,8,2.7,1348.48,Full HD,No,2.8,128,SSD
+725,Lenovo,Notebook,15.6,4,1.9,489.9,Standard,No,2.5,1024,HDD
+726,Dell,Notebook,15.6,8,2.2,719,Full HD,No,1.6,128,SSD
+727,Dell,2 in 1 Convertible,13.3,4,1.71,649,Full HD,Yes,2.4,1024,HDD
+728,Dell,Notebook,15.6,8,2.32,589.52,Standard,No,2.5,1024,HDD
+729,HP,Notebook,15.6,4,2.1,489,Full HD,No,3,1024,HDD
+730,Acer,Gaming,17.3,16,4.2,1935,Full HD,No,2.6,128,SSD
+731,Dell,Notebook,15.6,12,2.25,649,Standard,No,2.5,1024,HDD
+732,HP,Notebook,15.6,6,2.1,650,Full HD,No,3,128,SSD
+733,Acer,Notebook,15.6,4,2.4,559,Standard,No,2.5,500,HDD
+734,Lenovo,Notebook,13.3,8,1.44,960,Full HD,No,2.5,256,SSD
+735,Lenovo,Notebook,15.6,4,1.85,779,Full HD,No,2.7,1024,HDD
+736,HP,Workstation,15.6,16,2.6,2419,Full HD,No,2.8,256,SSD
+737,Dell,2 in 1 Convertible,13.3,8,1.55,659,Full HD,Yes,1.6,1024,HDD
+738,MSI,Gaming,15.6,16,1.8,2094.48,Full HD,No,2.8,256,SSD
+739,Acer,Notebook,15.6,4,2.4,410.8,Standard,No,2,500,HDD
+740,Dell,Notebook,15.6,8,2,1207,Full HD,No,2.7,128,SSD
+741,Dell,Notebook,15.6,8,2,665,Standard,No,2,256,SSD
+742,Toshiba,Notebook,14,8,1.25,1535,Full HD,Yes,2.5,256,SSD
+743,Lenovo,2 in 1 Convertible,14,8,1.7,999,Full HD,Yes,2.5,256,SSD
+744,Lenovo,Workstation,15.6,16,2.5,3299,4K Ultra HD,No,2.8,1024,SSD
+745,Acer,Notebook,14,2,1.68,330,Standard,No,1.6,32,Flash Storage
+746,Samsung,Ultrabook,13.3,16,0.81,1649,Full HD,No,2.7,256,SSD
+747,HP,Notebook,15.6,8,1.86,539,Full HD,No,2,256,SSD
+748,Dell,Notebook,14,8,1.6,1126.71,Standard,No,2.5,256,SSD
+749,HP,Workstation,17.3,16,3,4389,Full HD,No,2.9,256,SSD
+750,Lenovo,Netbook,11.6,4,1.4,475,Standard,Yes,1.6,128,SSD
+751,HP,Notebook,15.6,8,1.84,1900,Full HD,No,2.4,256,SSD
+752,Asus,Notebook,15.6,4,2.45,579,Standard,No,2.3,1024,HDD
+753,Lenovo,Ultrabook,14,4,1.7,1096,Full HD,No,2.3,180,SSD
+754,Asus,Notebook,15.6,4,2.37,849.9,Standard,No,2.7,256,SSD
+755,Lenovo,2 in 1 Convertible,13.3,8,1.3,1199,Quad HD+,Yes,1.8,256,SSD
+756,HP,Notebook,15.6,8,2.2,1099,Full HD,No,2.5,128,SSD
+757,HP,Workstation,15.6,8,2.59,1561,Full HD,No,2.6,256,SSD
+758,Dell,Gaming,15.6,16,4.42,2868.99,4K Ultra HD,No,2.8,256,SSD
+759,Acer,Notebook,15.6,4,2.1,599,Standard,No,2.5,256,SSD
+760,Lenovo,Gaming,15.6,8,2.5,1048,Full HD,No,2.8,128,SSD
+761,Dell,Ultrabook,12.5,16,1.18,1859,Full HD,No,2.8,256,SSD
+762,Google,Ultrabook,12.3,8,1.1,1559,Standard,Yes,1.2,256,SSD
+763,Asus,Ultrabook,13.3,8,1.2,1129,Quad HD+,No,2.5,256,SSD
+764,Dell,Notebook,13.3,4,1.65,849,Standard,No,2,500,HDD
+765,Acer,Notebook,13.3,4,1.6,655,Standard,No,2.3,128,SSD
+766,Asus,Notebook,17.3,4,2.8,470.34,Standard,No,1.1,1024,HDD
+767,Dell,Gaming,15.6,16,2.72,1099,4K Ultra HD,Yes,2.6,128,SSD
+768,Samsung,Ultrabook,13.3,8,1.31,1599,Full HD,Yes,2.7,256,SSD
+769,Acer,Notebook,15.6,4,2.1,298,Standard,No,1.1,1024,HDD
+770,Dell,Notebook,15.6,16,2.3,1181.27,Full HD,No,2.7,256,SSD
+771,Samsung,2 in 1 Convertible,15,16,1.71,1799,Full HD,Yes,2.7,256,SSD
+772,Toshiba,Notebook,14,4,1.75,1020,Standard,No,2.3,128,SSD
+773,Dell,Gaming,15.6,8,2.62,1099,Full HD,No,2.8,1024,HDD
+774,HP,Ultrabook,12.5,4,1.26,1244,Standard,No,2.3,256,SSD
+775,Asus,2 in 1 Convertible,15.6,12,2.3,839,Full HD,Yes,2.7,2048,HDD
+776,Lenovo,Notebook,15.6,16,2.5,2370,4K Ultra HD,No,2.7,512,SSD
+777,Acer,Notebook,14,4,1.8,636,Full HD,No,2.4,128,SSD
+778,Razer,Gaming,14,16,1.95,2899,Full HD,No,2.8,512,SSD
+779,Asus,Notebook,15.6,8,2,581.9,Standard,No,1.1,128,SSD
+780,Dell,Gaming,17.3,32,4.42,3588.8,Full HD,No,2.8,1024,SSD
+781,Asus,Gaming,17.3,16,4.3,2350,Full HD,No,2.6,256,SSD
+782,Toshiba,Ultrabook,14,16,1.47,1764,Full HD,No,2.6,512,SSD
+783,Lenovo,Notebook,15.6,8,2.2,329,Standard,No,1.6,1024,HDD
+784,Lenovo,Ultrabook,14,16,1.7,2299,Full HD,No,2.7,512,SSD
+785,MSI,Gaming,14,16,1.6,1891,Full HD,No,2.8,256,SSD
+786,MSI,Gaming,15.6,8,2.2,1089,Full HD,No,2.5,128,SSD
+787,Lenovo,Gaming,15.6,4,2.4,999,Full HD,No,2.8,1024,HDD
+788,Acer,Gaming,17.3,16,4.2,2299,Full HD,No,2.8,256,SSD
+789,Dell,Gaming,15.6,8,2.62,985,Full HD,No,2.5,256,SSD
+790,Asus,Gaming,15.6,8,2.24,1339,Full HD,No,2.8,128,SSD
+791,Vero,Notebook,14,4,1.22,202.9,Standard,No,1.1,32,Flash Storage
+792,Lenovo,2 in 1 Convertible,13.3,8,1.37,1970,Full HD,Yes,2.7,512,SSD
+793,Lenovo,2 in 1 Convertible,15.6,8,2.08,959,Full HD,Yes,2.5,256,SSD
+794,Apple,Ultrabook,12,8,0.92,1165,Standard,No,1.2,512,Flash Storage
+795,Lenovo,2 in 1 Convertible,14,8,1.42,2330,Standard,Yes,2.5,256,SSD
+796,Asus,Notebook,14,4,1.63,299,Standard,No,1.1,32,Flash Storage
+797,Dell,Notebook,15.6,8,1.95,810,Standard,No,2.5,128,SSD
+798,Lenovo,2 in 1 Convertible,13.9,8,1.38,1349,Full HD,Yes,2.7,256,SSD
+799,Dell,Notebook,15.6,8,2,739,Full HD,No,2,256,SSD
+800,HP,Workstation,15.6,8,3.14,2064.9,Full HD,No,2.8,256,SSD
+801,Asus,Notebook,15.6,8,2.37,1099,Full HD,No,2.5,256,SSD
+802,Dell,Ultrabook,13.3,8,1.29,1499,Full HD,No,2.5,256,SSD
+803,Dell,Notebook,15.6,8,2.06,1749,4K Ultra HD,Yes,2.5,256,SSD
+804,Dell,Netbook,11.6,4,1.63,744,Standard,No,1.1,128,SSD
+805,HP,Netbook,12.5,8,1.26,1389,Standard,No,2.6,256,SSD
+806,Toshiba,Notebook,15.6,4,2.1,780,Standard,No,2.3,500,HDD
+807,HP,Notebook,15.6,8,2.04,629,Standard,No,2.5,2048,HDD
+808,Dell,Gaming,15.6,16,2.62,1679,4K Ultra HD,No,2.8,512,SSD
+809,Lenovo,Notebook,15.6,4,2.4,609,Full HD,No,2.5,1024,HDD
+810,HP,Gaming,17.3,12,3.74,1749,Full HD,No,2.8,1024,HDD
+811,MSI,Gaming,17.3,16,2.9,2415,Full HD,No,2.8,512,SSD
+812,Samsung,Ultrabook,13.3,8,0.81,1499,Full HD,No,2.5,256,SSD
+813,Dell,Notebook,15.6,8,1.98,961,Full HD,No,2.7,1024,HDD
+814,Dell,Notebook,15.6,8,2.18,789.81,Full HD,No,2.5,256,SSD
+815,Lenovo,Ultrabook,14,8,1.32,1859,Full HD,No,2.7,256,SSD
+816,Razer,Ultrabook,12.5,16,1.29,1799,4K Ultra HD,Yes,2.5,512,SSD
+817,HP,Netbook,11.6,4,1.23,385,Standard,No,1.6,16,Flash Storage
+818,Dell,Gaming,17.3,16,4.36,2505.02,Full HD,No,2.8,128,SSD
+819,Dell,Notebook,14,4,1.76,755,Standard,No,2.3,500,HDD
+820,Lenovo,Notebook,15.6,4,2.1,489.9,Standard,No,2,500,HDD
+821,Toshiba,Ultrabook,14,4,1.25,1090,Standard,No,2.5,128,SSD
+822,Lenovo,Ultrabook,14,8,1.13,2499,Full HD,No,2.7,512,SSD
+823,MSI,Gaming,15.6,8,2.4,1199,Full HD,No,2.5,256,SSD
+824,Lenovo,Ultrabook,14,8,1.13,1875,Full HD,No,2.5,256,Flash Storage
+825,Toshiba,Notebook,14,4,1.75,499,Standard,No,2.1,128,SSD
+826,Asus,2 in 1 Convertible,13.3,8,1.1,1358,Full HD,Yes,2.5,256,SSD
+827,Dell,Notebook,14,4,1.76,585,Standard,No,2,500,HDD
+828,Acer,Netbook,11.6,4,1.35,355,Standard,No,1.6,32,Flash Storage
+829,Acer,Notebook,14,8,1.5,619,Full HD,No,2.4,128,SSD
+830,Razer,Gaming,17.3,32,3.49,5499,4K Ultra HD,Yes,2.9,512,SSD
+831,Lenovo,Ultrabook,14,16,1.1,2099,Quad HD+,No,2.6,512,SSD
+832,Asus,Notebook,15.6,4,2.1,519,Full HD,No,2.5,1024,HDD
+833,Lenovo,Notebook,14,8,1.7,1186,Full HD,No,2.3,256,SSD
+834,Lenovo,Notebook,14,8,1.32,1650,Full HD,No,2.6,256,SSD
+835,Dell,Gaming,15.6,16,3.21,2774.63,Full HD,No,2.8,256,SSD
+836,Asus,Gaming,17.3,16,2.9,2419,Full HD,No,2.8,256,SSD
+837,Toshiba,Notebook,15.6,4,2,669,Standard,No,2.4,500,HDD
+838,Lenovo,Notebook,14,4,1.5,325,Standard,No,1.6,16,Flash Storage
+839,Asus,Notebook,15.6,8,2.3,590,Full HD,No,2.5,128,HDD
+840,Asus,Gaming,17.3,16,2.73,1799,Full HD,No,2.6,512,SSD
+841,Dell,Gaming,17.3,32,4.42,3072.89,Full HD,No,2.8,512,SSD
+842,HP,Notebook,17.3,8,2.63,910,Standard,No,2.5,1024,HDD
+843,Dell,Notebook,15.6,8,2.18,713.99,Standard,No,2.5,128,SSD
+844,HP,Ultrabook,14,8,1.54,1870,Full HD,No,2.5,512,SSD
+845,Dell,Notebook,15.6,4,2.18,739,Full HD,No,2.7,256,SSD
+846,HP,2 in 1 Convertible,11.6,4,1.4,615,Standard,Yes,1.1,32,Flash Storage
+847,Asus,Ultrabook,13.3,8,1.45,1026,Full HD,No,2.3,512,SSD
+848,HP,2 in 1 Convertible,13.3,8,1.28,2277,Full HD,Yes,2.5,256,SSD
+849,HP,Ultrabook,14,8,1.54,1468,Full HD,No,2.5,512,SSD
+850,HP,Notebook,15.6,4,1.86,299,Standard,No,1.6,128,SSD
+851,Asus,Gaming,15.6,16,2.1,1899,Full HD,No,2.8,128,SSD
+852,Dell,Notebook,17.3,8,2.83,865,Full HD,No,2.7,1024,HDD
+853,Lenovo,Ultrabook,14,8,1.96,1903,Full HD,No,2.8,256,SSD
+854,Asus,Notebook,15.6,8,2.3,787,Full HD,No,2.7,256,SSD
+855,Dell,Notebook,15.6,8,1.9,945,Full HD,No,2.5,128,SSD
+856,Asus,Notebook,15.6,4,2,449,Standard,No,1.1,1024,HDD
+857,HP,2 in 1 Convertible,13.3,8,1.28,2559,Full HD,Yes,2.8,256,SSD
+858,Dell,Notebook,13.3,8,1.62,649,Full HD,Yes,2.3,1024,HDD
+859,Lenovo,Notebook,15.6,4,2.2,469,Full HD,No,2,1024,HDD
+860,Lenovo,Notebook,15.6,8,2.3,850.66,Full HD,No,2.5,1024,HDD
+861,HP,Notebook,15.6,8,1.84,1349,Full HD,No,2.6,256,SSD
+862,Toshiba,Notebook,13.3,4,1.05,1285,Full HD,No,2.5,128,SSD
+863,Lenovo,Gaming,15.6,8,2.5,1017,Full HD,No,2.5,1024,HDD
+864,Dell,Ultrabook,13.3,16,1.29,2240,Quad HD+,Yes,2.5,512,SSD
+865,HP,Notebook,15.6,4,2.07,910,Full HD,No,2.3,500,HDD
+866,Toshiba,Ultrabook,13.3,8,1.2,1095,Standard,No,2.3,256,SSD
+867,Lenovo,2 in 1 Convertible,13.3,8,1.37,1950,Full HD,Yes,2.7,256,SSD
+868,Acer,Notebook,14,8,1.56,902,Full HD,No,2.5,256,SSD
+869,Dell,Workstation,15.6,8,2.23,1778,Full HD,No,2.8,1024,HDD
+870,Lenovo,Notebook,15.6,4,2.38,1055,Standard,No,2.5,500,HDD
+871,Lenovo,Notebook,15.6,4,2.2,479,Full HD,No,2,1024,HDD
+872,Toshiba,Notebook,15.6,8,2,1388,Full HD,No,2.7,256,SSD
+873,Lenovo,Notebook,13.3,4,1.44,735,Full HD,No,2.4,180,SSD
+874,Samsung,Ultrabook,15,16,1.23,1849,Full HD,No,2.7,256,SSD
+875,Dell,Ultrabook,12.5,8,1.6,1690,Full HD,No,2.8,256,SSD
+876,Asus,Notebook,15.6,4,2,398.99,Standard,No,1.1,1024,HDD
+877,Xiaomi,Ultrabook,13.3,8,1.28,935,Full HD,No,2.3,256,SSD
+878,Dell,Notebook,15.6,4,2.18,912.5,Full HD,No,2.5,128,SSD
+879,HP,Notebook,15.6,4,2.04,839,Full HD,No,2.5,256,SSD
+880,HP,2 in 1 Convertible,13.3,4,1.28,1700,Full HD,Yes,2.5,256,SSD
+881,HP,2 in 1 Convertible,15.6,4,2.3,684.8,Standard,Yes,2.5,500,HDD
+882,Asus,Notebook,14.1,4,1.65,348,Standard,No,1.1,32,Flash Storage
+883,Lenovo,Notebook,15.6,8,2.2,669,Full HD,No,2.5,1024,HDD
+884,Dell,Notebook,15.6,4,2.2,369,Standard,No,1.6,500,HDD
+885,HP,2 in 1 Convertible,13.3,4,1.28,1799,Full HD,Yes,2.5,256,SSD
+886,Dell,Notebook,15.6,4,2.18,455.7,Standard,No,2,1024,HDD
+887,Asus,Gaming,17.3,12,2.2,1369.9,Full HD,No,2.5,128,SSD
+888,Acer,Netbook,11.6,4,1.25,297,Standard,No,1.6,32,Flash Storage
+889,Lenovo,Notebook,17.3,4,2.8,379,Standard,No,2.2,500,HDD
+890,HP,Notebook,14,4,1.95,1265,Full HD,No,2.5,128,SSD
+891,HP,2 in 1 Convertible,13.3,16,1.42,1399,Quad HD+,Yes,2.7,256,SSD
+892,Samsung,Ultrabook,15,8,1.17,1699,Full HD,No,2.7,256,SSD
+893,Lenovo,Ultrabook,14,8,1.32,1799,Full HD,No,2.5,256,SSD
+894,MSI,Gaming,17.3,16,2.43,2649,4K Ultra HD,No,2.6,512,SSD
+895,Toshiba,Notebook,13.3,8,1.05,1475,Full HD,No,2.5,256,SSD
+896,Dell,Gaming,15.6,8,2.62,929,Full HD,No,2.8,1024,HDD
+897,HP,Notebook,15.6,8,2.04,900,Full HD,No,2.7,1024,HDD
+898,Dell,Notebook,15.6,4,2.18,614,Standard,No,2,1024,HDD
+899,Dell,Notebook,15.6,8,1.9,935,Full HD,No,2.6,500,HDD
+900,Dell,2 in 1 Convertible,13.3,8,1.24,2013.1,Quad HD+,Yes,1.3,512,SSD
+901,Asus,Gaming,17.3,32,3.58,1279,Full HD,No,2.7,256,SSD
+902,Dell,2 in 1 Convertible,13.3,16,1.22,1649,Full HD,Yes,1.3,256,SSD
+903,Lenovo,Ultrabook,14,8,1.13,2049,Full HD,No,2.7,256,Flash Storage
+904,Lenovo,Notebook,15.6,8,1.95,1962.99,Full HD,No,2.5,512,SSD
+905,LG,Ultrabook,15.6,16,1.08,2099,Full HD,Yes,2.7,512,SSD
+906,HP,Netbook,12.5,8,1.26,1483,Full HD,No,2.7,512,SSD
+907,Acer,Notebook,15.6,4,2.2,359,Full HD,No,1.5,16,Flash Storage
+908,Lenovo,Notebook,15.6,8,2.6,789,Full HD,No,2.3,128,SSD
+909,LG,Ultrabook,14,8,0.98,1899,Full HD,Yes,2.7,512,SSD
+910,Dell,Notebook,14,8,1.6,1205,Full HD,No,2.8,256,SSD
+911,HP,Ultrabook,12.5,8,1.09,3100,4K Ultra HD,Yes,1.2,240,SSD
+912,Lenovo,Notebook,15.6,6,2.2,789,Full HD,No,2.7,256,SSD
+913,HP,Notebook,15.6,8,2.04,1018.99,Full HD,No,2.7,256,SSD
+914,Acer,Notebook,15.6,4,2.4,499,Full HD,No,2.4,1024,HDD
+915,Lenovo,Notebook,13.3,4,1.44,881,Full HD,No,2.5,128,SSD
+916,HP,Notebook,13.3,8,1.49,960,Full HD,No,2.5,256,SSD
+917,MSI,Gaming,17.3,16,2.7,1599,Full HD,No,2.8,256,SSD
+918,Dell,Gaming,15.6,16,2.6,1349,Full HD,No,2.8,128,SSD
+919,MSI,Gaming,15.6,8,2.2,1119.91,Full HD,No,2.5,128,SSD
+920,Dell,Notebook,15.6,4,2.18,684.99,Standard,No,2.5,1024,HDD
+921,HP,Ultrabook,15.6,8,1.84,1296.99,Full HD,No,2.5,256,SSD
+922,HP,Ultrabook,13.3,8,1.39,1149,Quad HD+,Yes,2.7,256,SSD
+923,Toshiba,Notebook,15.6,16,2.4,1975,Full HD,No,2.6,256,SSD
+924,Lenovo,2 in 1 Convertible,13.3,8,1.37,1825,Full HD,Yes,2.5,512,SSD
+925,Dell,Notebook,15.6,4,1.95,729.9,Standard,No,2.3,500,HDD
+926,Lenovo,Ultrabook,12.5,8,1.36,1650,Full HD,No,2.7,256,SSD
+927,HP,Notebook,15.6,8,2.31,1165,Full HD,No,2.3,256,SSD
+928,Dell,Notebook,15.6,4,2.18,708.06,Standard,No,2.5,1024,HDD
+929,HP,Notebook,14,4,1.95,1149,Standard,No,2.3,500,HDD
+930,Lenovo,Notebook,15.6,4,2.2,309,Standard,No,1.1,1024,HDD
+931,HP,Ultrabook,12.5,4,1.26,1579,Full HD,No,2.3,500,HDD
+932,HP,Notebook,15.6,4,1.86,288.9,Standard,No,1.6,1024,HDD
+933,Lenovo,2 in 1 Convertible,13.3,16,1.3,1799,Quad HD+,Yes,2.2,1024,SSD
+934,Toshiba,Notebook,14,4,1.47,1105,Full HD,No,2.3,128,SSD
+935,HP,Netbook,12.5,8,1.26,1669,Full HD,No,2.3,256,SSD
+936,Dell,Notebook,15.6,4,2.18,558.6,Standard,No,2,1024,HDD
+937,MSI,Gaming,15.6,8,2.2,1199,Full HD,No,2.8,128,SSD
+938,Dell,Ultrabook,14,8,1.36,1639,Full HD,No,2.5,256,SSD
+939,Dell,Gaming,17.3,16,4.36,2758,Standard,No,2.7,512,SSD
+940,HP,Gaming,17.3,8,2.75,1399,Full HD,No,2.3,128,SSD
+941,Asus,Notebook,17.3,4,2.8,530,Standard,No,1.6,1024,HDD
+942,Acer,Notebook,15.6,4,2.23,619,Standard,No,2.5,500,HDD
+943,Toshiba,Notebook,15.6,8,2.2,1119,Standard,No,2.3,256,SSD
+944,Lenovo,2 in 1 Convertible,11.3,8,1.1,1299,Full HD,Yes,1.2,256,SSD
+945,Lenovo,Gaming,15.6,16,2.5,999,Full HD,No,2.1,512,SSD
+946,Dell,Ultrabook,12.5,8,1.36,1472.2,Full HD,Yes,2.5,256,SSD
+947,Lenovo,Notebook,15.6,8,2.2,685,Full HD,No,2.7,1024,HDD
+948,Dell,Notebook,17.3,4,2.36,659,Standard,No,2,1024,HDD
+949,Acer,Notebook,14,4,1.68,349,Standard,No,1.6,32,Flash Storage
+950,HP,Workstation,15.6,8,2,2249,Full HD,No,2.7,8,SSD
+951,Dell,Ultrabook,14,8,1.36,1775,Full HD,No,2.8,256,SSD
+952,Toshiba,Notebook,13.3,8,1.2,1460,Full HD,No,2.3,256,SSD
+953,Asus,2 in 1 Convertible,12.5,8,1.2,1159,Full HD,No,1.2,64,Flash Storage
+954,Lenovo,Ultrabook,14,8,1.7,1488.99,Full HD,No,2.6,256,SSD
+955,Dell,Gaming,17.3,16,4.36,3154,4K Ultra HD,No,2.8,512,SSD
+956,Dell,2 in 1 Convertible,13.3,8,1.24,1899,Full HD,Yes,1.2,256,SSD
+957,HP,2 in 1 Convertible,11.6,4,1.45,775,Standard,Yes,1.1,256,SSD
+958,Dell,Ultrabook,13.3,8,1.3,1268,Quad HD+,No,2.5,256,SSD
+959,Acer,2 in 1 Convertible,11.6,4,1.25,389,Standard,Yes,1.6,32,Flash Storage
+960,Toshiba,Notebook,13.3,8,1.2,1535,Full HD,No,2.4,256,SSD
+961,Lenovo,Ultrabook,12.5,8,1.36,1760,Full HD,No,2.6,256,SSD
+962,Acer,Notebook,15.6,12,2.4,1009,Full HD,No,2.5,128,SSD
+963,Toshiba,Ultrabook,12.5,8,1.1,1790,Full HD,Yes,2.7,512,SSD
+964,HP,Notebook,15.6,8,2.04,846.5,Standard,No,2.5,1024,HDD
+965,Dell,Notebook,15.6,4,2.25,465.62,Standard,No,2,1024,HDD
+966,Dell,Notebook,15.6,4,1.9,825,Standard,No,2.5,500,HDD
+967,HP,Notebook,15.6,4,2.04,685,Full HD,No,2.4,500,HDD
+968,Dell,Gaming,17.3,32,4.42,3149,Full HD,No,2.8,256,SSD
+969,Lenovo,Notebook,15.6,6,2.4,695,Full HD,No,2.5,256,SSD
+970,Dell,2 in 1 Convertible,13.3,16,1.22,1899,Quad HD+,Yes,1.3,512,SSD
+971,Dell,Ultrabook,14,8,1.5,1962.98,Standard,Yes,2.6,256,SSD
+972,Dell,Gaming,17.3,32,4.42,2800,Full HD,No,2.6,256,SSD
+973,Toshiba,Notebook,14,8,1.95,1180,Full HD,No,2.3,256,SSD
+974,Asus,Gaming,17.3,16,2.73,2049.9,Full HD,No,2.8,256,SSD
+975,HP,Notebook,15.6,8,2.04,979,Full HD,No,2.7,128,SSD
+976,Lenovo,Notebook,14,4,1.7,1002,Standard,No,2.3,508,Hybrid
+977,Asus,2 in 1 Convertible,15.6,16,2.3,1799,4K Ultra HD,Yes,2.7,512,SSD
+978,HP,Notebook,15.6,6,2.04,579,Standard,No,2.7,1024,HDD
+979,Asus,Gaming,17.3,16,2.99,1749,Full HD,No,2.8,256,SSD
+980,Dell,2 in 1 Convertible,15.6,12,2.19,1299,Full HD,Yes,2.7,512,SSD
+981,Toshiba,Notebook,13.3,4,1.2,1195,Full HD,No,2.3,128,SSD
+982,Lenovo,Notebook,15.6,6,2.2,549,Full HD,No,3.6,256,SSD
+983,Fujitsu,Notebook,15.6,4,2.3,649,Standard,No,2.3,256,SSD
+984,Toshiba,Notebook,14,4,1.75,915,Standard,No,2.3,500,HDD
+985,Dell,Notebook,15.6,4,2.25,599,Standard,No,2.5,500,HDD
+986,HP,Notebook,15.6,8,2.04,806,Full HD,No,2.5,1024,HDD
+987,Lenovo,Gaming,15.6,8,2.5,1189,Full HD,No,2.8,128,SSD
+988,Dell,Notebook,15.6,8,2.36,749,Standard,No,2.7,1024,HDD
+989,Dell,Notebook,14,8,1.6,1119,Full HD,No,2.5,128,SSD
+990,HP,Netbook,12.5,8,0.97,1908,Full HD,No,1.2,512,SSD
+991,HP,Notebook,15.6,4,2.1,499,Full HD,No,2,128,SSD
+992,Lenovo,Notebook,15.6,4,1.9,270.62,Standard,No,1.1,128,SSD
+993,Lenovo,Notebook,15.6,8,2.3,1349,Full HD,No,2.3,256,SSD
+994,Dell,2 in 1 Convertible,13.3,8,1.68,889,Full HD,Yes,2.5,256,SSD
+995,Asus,Notebook,13.3,8,1.4,1150,Quad HD+,No,2.5,256,SSD
+996,HP,Ultrabook,13.3,8,1.11,1349,Full HD,Yes,2.7,256,SSD
+997,Acer,Notebook,15.6,4,2.4,380,Standard,No,1.1,500,HDD
+998,Asus,Gaming,15.6,16,2.5,1799,Full HD,No,2.8,256,SSD
+999,HP,Ultrabook,14,8,1.48,2089,Full HD,No,2.7,512,SSD
+1000,Acer,Gaming,15.6,8,2.7,1260,Full HD,No,2.8,128,SSD
+1001,HP,Notebook,13.3,8,1.34,1189,Full HD,No,2.5,256,SSD
+1002,Dell,Notebook,15.6,4,2.18,547,Standard,No,2.4,128,SSD
+1003,HP,Notebook,14,4,1.64,779,Standard,No,2.5,500,HDD
+1004,Toshiba,Notebook,13.3,4,1.2,1195,Full HD,No,2.3,128,SSD
+1005,HP,Notebook,14,4,1.48,1099.99,Standard,No,2.4,256,SSD
+1006,HP,Notebook,14,4,1.95,1205,Full HD,No,2.5,256,SSD
+1007,HP,Ultrabook,14,8,1.43,1449,Full HD,No,2.6,256,SSD
+1008,HP,Notebook,14,8,1.64,1049.26,Full HD,No,2.5,256,SSD
+1009,HP,Notebook,14,4,1.64,684,Standard,No,2.4,500,HDD
+1010,Dell,Gaming,15.6,8,2.65,949,Full HD,No,2.5,1024,Hybrid
+1011,HP,Ultrabook,12.5,4,1.26,1539,Full HD,No,2.5,500,HDD
+1012,HP,Notebook,14,4,1.48,1590,Full HD,No,2.5,256,SSD
+1013,HP,Ultrabook,14,8,1.54,1887.21,Full HD,No,2.5,256,SSD
+1014,HP,Notebook,13.3,4,1.49,800,Standard,No,2.4,500,HDD
+1015,Toshiba,Notebook,13.3,8,1.5,1210,Standard,No,2.3,256,SSD
+1016,HP,Notebook,15.6,4,2.04,769.99,Standard,No,2.4,256,SSD
+1017,Lenovo,Notebook,17.3,16,2.4,2968,4K Ultra HD,No,2.7,512,SSD
+1018,Toshiba,Notebook,14,8,1.47,1490,Full HD,No,2.3,256,SSD
+1019,HP,Notebook,14,8,1.43,2229,Full HD,No,2.5,256,SSD
+1020,Dell,2 in 1 Convertible,15.6,4,2.08,795.99,Full HD,Yes,2.3,1024,HDD
+1021,Toshiba,Ultrabook,13.3,8,1.2,1590,Full HD,No,2.3,256,SSD
+1022,HP,Notebook,13.3,8,1.11,1149,Full HD,No,2.5,256,SSD
+1023,HP,Notebook,14,8,1.64,1185.43,Full HD,No,2.7,256,SSD
+1024,Dell,Notebook,15.6,8,2.09,1046.44,Full HD,No,2.4,500,HDD
+1025,HP,Ultrabook,12.5,4,1.26,1559,Standard,No,2.5,256,SSD
+1026,HP,Notebook,14,4,2.31,1189,Standard,No,2.5,500,HDD
+1027,HP,Notebook,14,4,1.95,1060,Standard,No,2.5,500,HDD
+1028,Dell,Ultrabook,13.3,8,1.29,1624,Quad HD+,Yes,2.5,256,SSD
+1029,HP,Notebook,17.3,8,2.63,1080,Full HD,No,2.5,256,SSD
+1030,HP,Notebook,14,4,1.64,973,Standard,No,2.5,256,SSD
+1031,Acer,Notebook,15.6,6,2.1,409,Standard,No,3,1024,HDD
+1032,MSI,Gaming,17.3,8,2.7,1191.8,Full HD,No,2.8,128,SSD
+1033,HP,Notebook,14,8,1.95,1195,Full HD,No,2.3,256,SSD
+1034,HP,Notebook,15.6,8,1.84,1228.99,Full HD,No,2.5,256,SSD
+1035,HP,Ultrabook,12.5,8,1.26,1349,Full HD,No,2.5,256,SSD
+1036,HP,Notebook,15.6,4,2.04,742,Standard,No,2.5,500,HDD
+1037,Toshiba,Ultrabook,14,8,1.47,1725,Full HD,No,2.6,256,SSD
+1038,Dell,Notebook,15.6,8,2.09,1062.95,Full HD,No,2.4,256,SSD
+1039,HP,Notebook,14,8,1.64,1010.51,Full HD,No,2.5,256,SSD
+1040,Lenovo,2 in 1 Convertible,15.6,4,1.8,847,Full HD,Yes,2.5,256,SSD
+1041,Vero,Notebook,14,2,1.45,210.8,Standard,No,1.44,32,Flash Storage
+1042,Toshiba,Notebook,15.6,16,2.4,1425,Full HD,No,2.5,256,SSD
+1043,Lenovo,Notebook,15.6,8,2.3,1049.6,Full HD,No,2.3,256,SSD
+1044,HP,Notebook,14,4,1.54,1000,Full HD,No,2.3,500,HDD
+1045,HP,Notebook,15.6,8,1.84,2103.34,Full HD,No,2.4,256,SSD
+1046,HP,Notebook,14,8,1.43,1469,Full HD,No,2.3,256,SSD
+1047,MSI,Gaming,17.3,16,3.78,1545.64,Full HD,No,2.7,256,SSD
+1048,Lenovo,Gaming,17.3,16,4.6,2289.99,Full HD,No,2.6,128,SSD
+1049,Asus,Netbook,11.6,4,1.2,287.9,Standard,No,1.6,16,Flash Storage
+1050,Lenovo,Notebook,14,16,1.1,2620,Standard,No,2.6,256,SSD
+1051,HP,Notebook,15.6,8,1.91,979,Full HD,No,2.7,1024,HDD
+1052,Dell,2 in 1 Convertible,15.6,8,2.3,1094,Full HD,Yes,2.7,256,SSD
+1053,HP,Notebook,15.6,4,2.04,979,Standard,No,2.5,256,SSD
+1054,Dell,Ultrabook,13.3,16,1.2,2254,Quad HD+,Yes,2.7,1024,SSD
+1055,HP,Notebook,15.6,4,2.31,705.15,Standard,No,2.3,500,HDD
+1056,HP,Notebook,15.6,4,1.96,499,Standard,No,2.5,500,HDD
+1057,Acer,Notebook,15.6,8,2.4,449,Standard,No,2.2,1024,HDD
+1058,Dell,2 in 1 Convertible,13.3,12,1.6,1299,Full HD,Yes,2.7,256,SSD
+1059,MSI,Gaming,15.6,16,2.94,1819,Full HD,No,2.6,256,SSD
+1060,HP,Notebook,15.6,8,2.04,1070,Full HD,No,2.7,256,SSD
+1061,Asus,Gaming,17.3,16,4,998,Full HD,No,2.6,1024,HDD
+1062,Dell,Notebook,15.6,4,2.25,559,Full HD,No,2.5,1024,HDD
+1063,Dell,Notebook,15.6,16,2.32,989.99,Full HD,No,2.7,2048,HDD
+1064,MSI,Gaming,15.6,16,1.8,1929,Full HD,No,2.6,256,SSD
+1065,Dell,Ultrabook,13.3,8,1.29,1458,Full HD,No,2.7,256,SSD
+1066,Asus,Gaming,17.3,64,3.58,3975,Full HD,No,2.7,1024,SSD
+1067,Dell,2 in 1 Convertible,13.3,8,1.62,798.01,Full HD,Yes,2.5,256,SSD
+1068,Dell,Gaming,15.6,16,3.21,1329,4K Ultra HD,No,2.6,256,SSD
+1069,Apple,Ultrabook,12,8,0.92,1300,Standard,No,1.1,256,Flash Storage
+1070,Dell,Notebook,15.6,4,2.06,481.98,Standard,No,2.3,500,HDD
+1071,HP,Notebook,15.6,4,2.31,1199,Standard,No,2.3,500,HDD
+1072,HP,Ultrabook,12.5,8,1.26,1199,Full HD,No,2.3,256,SSD
+1073,HP,Notebook,13.3,8,1.49,1090,Full HD,No,2.7,256,SSD
+1074,Lenovo,Ultrabook,12.5,8,1.3,1713.49,Full HD,Yes,2.5,256,SSD
+1075,Lenovo,Notebook,17.3,8,3,659,Standard,No,2.3,1024,HDD
+1076,Lenovo,Notebook,15.6,4,2.3,977,Full HD,No,2.3,1024,HDD
+1077,MSI,Gaming,17.3,16,3.78,2499,Full HD,No,2.8,256,SSD
+1078,Lenovo,Notebook,15.6,4,2.1,540,Standard,No,2.3,500,HDD
+1079,HP,Notebook,15.6,4,2.31,940,Full HD,No,2.3,500,HDD
+1080,Lenovo,Ultrabook,12.5,8,0.99,1399,Standard,Yes,1.2,512,SSD
+1081,Lenovo,Gaming,17.3,32,4.6,3240,Full HD,No,2.7,512,SSD
+1082,Lenovo,2 in 1 Convertible,10.1,4,0.69,646.27,Standard,Yes,1.44,64,Flash Storage
+1083,HP,Ultrabook,13.3,16,1.3,2049,4K Ultra HD,No,2.7,512,SSD
+1084,Dell,Notebook,15.6,8,2.18,750,Full HD,No,2.5,256,SSD
+1085,HP,Notebook,14,4,1.54,1030.99,Full HD,No,2.3,500,HDD
+1086,HP,Workstation,15.6,8,1.9,1495,Full HD,No,2.5,256,SSD
+1087,Lenovo,Notebook,14,8,1.7,1199,Full HD,No,2.3,180,SSD
+1088,HP,Notebook,13.3,4,1.29,615,Quad HD+,No,1.5,32,Flash Storage
+1089,Acer,Notebook,15.6,4,2.4,387,Standard,No,2.2,500,HDD
+1090,Dell,Notebook,15.6,4,2.2,393.49,Standard,No,1.6,500,HDD
+1091,HP,Notebook,15.6,4,1.86,345.99,Standard,No,2,1024,HDD
+1092,Asus,Gaming,17.3,8,2.7,1599,Full HD,No,2.8,256,SSD
+1093,Dell,Ultrabook,13.3,4,1.4,818.35,Full HD,No,1.6,256,SSD
+1094,HP,Netbook,12.5,4,2.4,1599,Standard,No,2.3,128,SSD
+1095,Acer,Notebook,15.6,8,2.4,799,Full HD,No,2.5,256,SSD
+1096,Dell,Notebook,15.6,8,2.36,638.8,Full HD,No,2.5,1024,HDD
+1097,MSI,Gaming,17.3,8,2.6,1599,Full HD,No,2.6,256,SSD
+1098,HP,Notebook,15.6,4,1.96,500,Standard,No,1.6,1024,HDD
+1099,Asus,Gaming,17.3,16,4.3,2299,Full HD,No,2.6,128,SSD
+1100,Dell,Ultrabook,12.5,4,1.5,1135.15,Standard,No,2.3,500,HDD
+1101,Dell,Ultrabook,12.5,4,1.5,1166.97,Standard,No,2.3,128,SSD
+1102,Acer,Notebook,15.6,4,2.2,209,Standard,No,1.5,16,SSD
+1103,HP,Workstation,17.3,8,3,2899,Full HD,No,2.6,1024,HDD
+1104,Lenovo,Gaming,15.6,16,2.4,1199,Full HD,No,2.8,512,SSD
+1105,Dell,Ultrabook,12.5,8,1.5,1413.1,Standard,No,2.3,256,SSD
+1106,MSI,Gaming,17.3,8,2.9,1511.19,Full HD,No,2.6,128,SSD
+1107,Lenovo,2 in 1 Convertible,15.6,4,2.1,867,Full HD,Yes,2.3,256,SSD
+1108,HP,Notebook,15.6,4,2.1,398,Full HD,No,2.5,1024,HDD
+1109,Asus,Gaming,15.6,16,2.59,1339,Full HD,No,2.6,128,SSD
+1110,HP,Notebook,13.3,8,1.16,1699,Quad HD+,Yes,1.1,256,SSD
+1111,Dell,Notebook,15.6,4,2.24,769.15,Standard,No,2.3,500,HDD
+1112,Lenovo,Notebook,15.6,4,2.1,429,Standard,No,2,128,SSD
+1113,HP,Ultrabook,13.3,8,1.16,1969,Full HD,No,2.5,512,SSD
+1114,Lenovo,2 in 1 Convertible,10.1,4,0.69,549,Standard,Yes,1.44,64,Flash Storage
+1115,Dell,Ultrabook,13.3,8,1.23,1379,Full HD,No,2.4,256,SSD
+1116,Lenovo,Gaming,17.3,16,4.6,2749.99,Full HD,No,2.7,256,SSD
+1117,Razer,Ultrabook,12.5,8,1.25,1029,4K Ultra HD,Yes,2.5,256,SSD
+1118,Toshiba,Ultrabook,13.3,16,1.05,2226,Full HD,No,2.7,512,SSD
+1119,Asus,Gaming,17.3,8,3.52,1312.49,Full HD,No,2.6,128,SSD
+1120,Vero,Notebook,13.3,4,1.35,196,Full HD,No,1.44,32,Flash Storage
+1121,HP,Notebook,13.3,8,1.16,1690,Full HD,No,2.3,256,SSD
+1122,HP,Notebook,14,8,1.43,1513,Full HD,No,2.3,256,SSD
+1123,Dell,Notebook,15.6,4,2.09,523.63,Standard,No,2.3,500,HDD
+1124,Asus,Notebook,15.6,4,2,435,Standard,No,2.4,1024,HDD
+1125,Lenovo,2 in 1 Convertible,14,8,1.8,1669,Full HD,Yes,2.5,256,SSD
+1126,Lenovo,2 in 1 Convertible,10.1,4,0.69,479,Standard,Yes,1.44,64,Flash Storage
+1127,HP,Ultrabook,12.5,8,1.26,1895,Standard,No,2.4,256,SSD
+1128,Lenovo,Gaming,15.6,8,2.4,989,Full HD,No,2.5,128,SSD
+1129,HP,Gaming,17.3,8,3.35,1129,Full HD,No,2.3,128,SSD
+1130,HP,Notebook,15.6,8,2.04,629,Standard,No,2.7,2048,HDD
+1131,Lenovo,2 in 1 Convertible,14,8,1.8,2050.38,Full HD,Yes,2.6,512,SSD
+1132,Asus,Notebook,14,4,1.5,278,Standard,No,1.1,32,Flash Storage
+1133,HP,Ultrabook,15.6,8,1.84,752,Full HD,No,2.7,256,SSD
+1134,Acer,Notebook,15.6,4,2.23,616,Full HD,No,2.5,1024,HDD
+1135,Lenovo,Notebook,15.6,16,2.5,1099,Full HD,No,2.5,1024,Hybrid
+1136,HP,Workstation,17.3,8,3,3949.4,Full HD,No,2.6,256,SSD
+1137,Dell,Notebook,15.6,8,2.5,784,Standard,No,2.5,1024,HDD
+1138,MSI,Gaming,17.3,16,3.78,2399,Full HD,No,2.7,256,SSD
+1139,HP,Ultrabook,15.6,8,1.88,2171.72,Full HD,No,2.5,256,SSD
+1140,Lenovo,2 in 1 Convertible,14,16,2.8,2440,Standard,Yes,2.6,512,SSD
+1141,MSI,Gaming,15.6,8,2.4,1142.8,Full HD,No,2.8,128,SSD
+1142,HP,2 in 1 Convertible,13.3,8,1.48,1629,Full HD,Yes,2.4,256,SSD
+1143,HP,Workstation,15.6,8,2.59,2229,Full HD,No,2.6,256,SSD
+1144,HP,2 in 1 Convertible,13.3,8,1.48,1799,Standard,Yes,2.6,256,SSD
+1145,HP,Workstation,15.6,8,2,1899,Full HD,No,2.6,256,SSD
+1146,HP,Ultrabook,12.5,8,1.26,2296.95,Full HD,No,2.5,256,SSD
+1147,Dell,Notebook,15.6,8,2.18,1009.9,Full HD,No,2.7,256,SSD
+1148,HP,Notebook,15.6,8,1.88,1579,Full HD,No,2.3,256,SSD
+1149,Lenovo,2 in 1 Convertible,14,8,1.27,2339,Standard,Yes,2.5,256,SSD
+1150,Lenovo,Notebook,15.6,4,1.9,339,Standard,No,2,1024,HDD
+1151,HP,Notebook,15.6,4,1.86,297,Standard,No,1.8,500,HDD
+1152,Lenovo,Notebook,15.6,8,2.32,599,Full HD,No,2.3,1024,HDD
+1153,Dell,Gaming,15.6,8,2.62,1199,Full HD,No,2.8,1024,HDD
+1154,Dell,Notebook,15.6,8,2.04,2250.68,4K Ultra HD,Yes,2.3,256,SSD
+1155,HP,Notebook,15.6,4,1.91,478.89,Full HD,No,2.5,256,SSD
+1156,MSI,Gaming,17.3,16,2.7,1492.8,Full HD,No,2.8,256,SSD
+1157,Lenovo,Ultrabook,14,12,1.4,2299,Full HD,No,2.6,512,SSD
+1158,Lenovo,Notebook,15.6,8,2.5,788.49,Full HD,No,2.3,1024,Hybrid
+1159,HP,2 in 1 Convertible,13.3,8,1.48,2041,Standard,Yes,2.6,512,SSD
+1160,Lenovo,Ultrabook,14,8,1.7,1499,Full HD,No,2.6,256,SSD
+1161,MSI,Gaming,14,16,1.7,1769,Full HD,No,2.6,256,SSD
+1162,HP,Gaming,15.6,8,2.62,899,Full HD,No,2.8,1024,HDD
+1163,Lenovo,Notebook,15.6,8,2.2,459,Standard,No,2,1024,HDD
+1164,HP,Notebook,15.6,4,2.1,476.99,Standard,No,2.3,500,HDD
+1165,Dell,Gaming,15.6,8,2.62,1498,4K Ultra HD,No,2.8,128,SSD
+1166,Lenovo,Notebook,15.6,8,1.95,1390,Full HD,No,2.5,256,SSD
+1167,Lenovo,Notebook,15.6,4,2.2,468,Full HD,No,2,1024,HDD
+1168,HP,Notebook,14,2,1.44,249,Standard,No,1.6,32,Flash Storage
+1169,MSI,Gaming,15.6,8,2.2,839,Full HD,No,2.7,1024,HDD
+1170,HP,Notebook,15.6,8,1.96,679,Full HD,No,2.5,256,SSD
+1171,HP,Notebook,15.6,16,2.1,1159,Full HD,No,1.8,512,SSD
+1172,Asus,Notebook,15.6,4,2.2,369,Standard,No,1.6,500,HDD
+1173,Lenovo,Notebook,15.6,4,2.1,398,Standard,No,2.3,500,HDD
+1174,Lenovo,Notebook,15.6,8,2.2,709,Full HD,No,2.7,1024,HDD
+1175,Asus,Notebook,14,4,2,769,Full HD,No,2.4,256,SSD
+1176,Lenovo,Notebook,15.6,4,2.32,825,Full HD,No,2.5,1024,Hybrid
+1177,Lenovo,Gaming,15.6,16,3.31,1305,Full HD,No,2.6,512,SSD
+1178,MSI,Gaming,15.6,16,1.91,2153.37,Full HD,No,2.6,128,SSD
+1179,HP,Notebook,15.6,4,2.07,650,Standard,No,2.3,500,HDD
+1180,Lenovo,2 in 1 Convertible,14,8,1.36,1637,Standard,Yes,2.3,256,SSD
+1181,Lenovo,Ultrabook,15.6,6,1.54,831,Full HD,No,2.7,256,SSD
+1182,Dell,Notebook,15.6,8,1.98,895.01,Full HD,No,2.7,256,SSD
+1183,Acer,Notebook,15.6,4,2.1,333,Standard,No,2,500,HDD
+1184,HP,Notebook,15.6,6,2.18,799,Full HD,No,2.6,1024,HDD
+1185,Asus,Gaming,15.6,8,2.591,909,Full HD,No,2.6,256,SSD
+1186,Dell,2 in 1 Convertible,15.6,16,2.09,1179,Full HD,Yes,2.7,512,SSD
+1187,Acer,Notebook,15.6,4,2.23,691,Full HD,No,2.5,256,SSD
+1188,Dell,Ultrabook,13.3,8,1.23,1099,Quad HD+,Yes,2.4,256,SSD
+1189,Acer,Gaming,17.3,16,4.2,2599,Full HD,No,2.8,256,SSD
+1190,Lenovo,Gaming,15.6,8,2.4,819,Full HD,No,2.5,1024,HDD
+1191,Samsung,2 in 1 Convertible,12.3,4,1.15,659,Standard,Yes,2,32,Flash Storage
+1192,HP,Notebook,15.6,4,1.86,485,Standard,No,2.5,500,HDD
+1193,Apple,Ultrabook,12,8,0.92,1163,Standard,No,1.1,256,Flash Storage
+1194,Dell,2 in 1 Convertible,13.3,8,1.6,1199,Full HD,Yes,2.5,256,SSD
+1195,HP,Notebook,15.6,12,2.21,1327,Full HD,No,2.8,128,SSD
+1196,Lenovo,Notebook,15.6,4,1.9,368,Standard,No,2,1024,HDD
+1197,Asus,Gaming,17.3,16,4.3,2150,Full HD,No,2.6,512,SSD
+1198,Acer,Notebook,15.6,4,2.1,272,Standard,No,2,1024,HDD
+1199,MSI,Gaming,17.3,16,2.43,2048.9,Full HD,No,2.8,256,SSD
+1200,Dell,Notebook,15.6,4,2.3,499,Standard,No,2,128,SSD
+1201,Lenovo,Notebook,15.6,8,2.2,629,Standard,No,2.5,500,HDD
+1202,Dell,2 in 1 Convertible,15.6,16,2,1285,Full HD,Yes,1.8,512,SSD
+1203,Dell,Ultrabook,13.3,16,1.2,2680,Quad HD+,Yes,2.7,512,SSD
+1204,Asus,Gaming,15.6,8,2.2,1169,Full HD,No,2.6,1024,HDD
+1205,Dell,Notebook,15.6,8,2.36,889,Full HD,No,2.5,256,SSD
+1206,HP,Notebook,15.6,8,1.91,579,Standard,No,2.5,256,SSD
+1207,Lenovo,Notebook,15.6,4,2.2,299,Standard,No,2.2,500,HDD
+1208,Acer,Notebook,17.3,8,3.3,629,Standard,No,2,1024,HDD
+1209,Asus,Gaming,15.6,16,2.2,2449,Full HD,No,2.8,256,SSD
+1210,Apple,Ultrabook,12,8,0.92,1279,Standard,No,1.2,512,Flash Storage
+1211,Asus,Notebook,15.6,16,2.2,1749,Full HD,No,2.8,128,SSD
+1212,MSI,Gaming,17.3,16,2.43,1948.99,Full HD,No,2.6,256,SSD
+1213,Dell,2 in 1 Convertible,15.6,8,2.191,999,Full HD,Yes,2.5,256,SSD
+1214,Asus,Gaming,17.3,16,2.9,1949,Full HD,No,2.8,256,SSD
+1215,Acer,Netbook,11.6,2,1.3,174,Standard,No,1.5,32,SSD
+1216,Acer,Notebook,17.3,4,3.3,598,Standard,No,2,1024,HDD
+1217,Lenovo,Notebook,17.3,8,2.8,539,Standard,No,2.5,1024,HDD
+1218,Lenovo,Gaming,15.6,8,2.6,1272,Full HD,No,2.6,128,SSD
+1219,Acer,2 in 1 Convertible,14,8,1.2,1149,Full HD,Yes,1.3,256,SSD
+1220,Lenovo,Notebook,15.6,8,2.3,1529,Full HD,No,2.6,256,SSD
+1221,MSI,Gaming,15.6,8,2.2,1476.11,Full HD,No,2.6,128,SSD
+1222,HP,Notebook,15.6,6,2.1,529,Full HD,No,2.7,1024,HDD
+1223,Dell,Ultrabook,12.5,8,1.26,1713.37,Full HD,Yes,2.4,256,SSD
+1224,Dell,2 in 1 Convertible,15,4,2.08,509,Full HD,Yes,2.4,500,HDD
+1225,Asus,Notebook,15.6,4,2.65,309,Standard,No,1.6,1024,HDD
+1226,Dell,Ultrabook,13.3,8,1.29,1477,Quad HD+,Yes,2.7,256,SSD
+1227,Dell,Notebook,15.6,4,2.18,521.86,Standard,No,2.5,1024,HDD
+1228,Lenovo,Gaming,15.6,16,2.6,1029,Full HD,Yes,2.6,128,SSD
+1229,MSI,Gaming,15.6,8,2.2,1149,Full HD,No,2.8,128,SSD
+1230,Lenovo,Netbook,12.5,16,1.3,1650,Full HD,Yes,2.5,512,SSD
+1231,Razer,Gaming,14,16,1.95,3499,Full HD,No,2.8,1024,SSD
+1232,Dell,Notebook,15.6,8,2.3,469.01,Standard,Yes,2.4,1024,HDD
+1233,MSI,Gaming,17.3,16,2.7,1598,Full HD,No,2.8,256,SSD
+1234,Apple,Ultrabook,11.6,4,1.08,959,Standard,No,1.6,256,Flash Storage
+1235,HP,Notebook,15.6,4,2.1,478,Full HD,No,2,1024,HDD
+1236,HP,Ultrabook,14,8,1.54,2198.19,Standard,No,2.5,256,SSD
+1237,Dell,Notebook,15.6,4,2.24,737,Standard,No,2.3,500,HDD
+1238,MSI,Gaming,15.6,8,2.3,1169,Full HD,No,2.6,128,SSD
+1239,Lenovo,Notebook,13.3,16,1.4,1499,Full HD,No,2.7,512,SSD
+1240,Lenovo,Notebook,15.6,6,2.2,597.57,Full HD,No,3.6,256,SSD
+1241,Asus,Ultrabook,13.3,8,1.45,1280,Full HD,No,2.5,256,SSD
+1242,Acer,Notebook,15.6,4,2.4,361.8,Standard,No,2,500,HDD
+1243,Dell,2 in 1 Convertible,17.3,16,2.77,1799,Full HD,Yes,2.7,512,SSD
+1244,HP,Notebook,14,4,1.54,1099.99,Full HD,No,2.3,256,SSD
+1245,Asus,Gaming,15.6,16,2.5,1600,Full HD,No,2.8,256,SSD
+1246,Dell,Notebook,14,4,1.6,875,Standard,No,2.5,500,HDD
+1247,Asus,Gaming,15.6,16,2.34,2325,Full HD,No,2.6,256,SSD
+1248,Lenovo,Notebook,15.6,8,2.3,573,Full HD,No,2.5,256,SSD
+1249,Dell,2 in 1 Convertible,13.3,8,1.24,1813,Quad HD+,Yes,1.2,256,SSD
+1250,Dell,Notebook,15.6,4,2.2,324,Standard,No,1.6,500,HDD
+1251,HP,Notebook,15.6,4,1.86,399,Standard,No,2.5,500,HDD
+1252,Lenovo,Notebook,15.6,6,2.4,569,Full HD,No,2.3,128,SSD
+1253,Lenovo,Notebook,14,8,1.9,1072,Full HD,No,2.3,256,SSD
+1254,Dell,Notebook,15.6,4,2.2,443.99,Standard,No,1.6,500,HDD
+1255,Asus,Notebook,15.6,4,2,339,Standard,No,1.1,1024,HDD
+1256,Asus,Gaming,17.3,16,4,1900,Full HD,No,2.6,128,SSD
+1257,Dell,Notebook,15.6,4,2.29,490,Standard,No,2,500,HDD
+1258,Lenovo,Notebook,15.6,8,2.32,895,Full HD,No,2.5,1024,Hybrid
+1259,MSI,Gaming,15.6,8,2.4,1229,Full HD,No,2.6,128,SSD
+1260,Lenovo,2 in 1 Convertible,14,4,1.8,833.01,Full HD,Yes,2.3,128,SSD
+1261,Asus,Ultrabook,13.3,8,1.2,729,Full HD,No,0.9,512,SSD
+1262,Dell,Notebook,15.6,6,2.3,459,Standard,No,2.4,1024,HDD
+1263,Acer,Notebook,15.6,4,2.4,289,Standard,No,1.6,500,HDD
+1264,Dell,Notebook,15.6,2,2.2,379,Standard,No,1.6,500,HDD
+1265,Lenovo,Notebook,15.6,8,2.6,899,Full HD,No,2.6,1024,HDD
+1266,HP,Notebook,15.6,6,2.04,549.99,Full HD,No,2.9,1024,Hybrid
+1267,Dell,Notebook,15.6,8,2.3,805.99,Standard,No,2.7,1024,HDD
+1268,HP,Netbook,11.6,2,1.17,209,Standard,No,1.6,32,Flash Storage
+1269,Asus,Notebook,15.6,4,2.2,720.32,Standard,No,2.5,500,HDD
+1270,Lenovo,2 in 1 Convertible,14,4,1.8,638,Full HD,Yes,2.5,128,SSD
+1271,Lenovo,2 in 1 Convertible,13.3,16,1.3,1499,Quad HD+,Yes,2.5,512,SSD
+1272,Lenovo,Notebook,14,2,1.5,229,Standard,No,1.6,64,Flash Storage
+1273,HP,Notebook,15.6,6,2.19,764,Standard,No,2.5,1024,HDD
+1274,Asus,Notebook,15.6,4,2.2,369,Standard,No,1.6,500,HDD
