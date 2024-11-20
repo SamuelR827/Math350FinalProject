@@ -1,4 +1,4 @@
-ID,Company,TypeName,Inches,Ram,Weight,Price_euros,Screen,Touchscreen,CPU_freq,PrimaryStorage,PrimaryStorageType
+id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,storageamount,storagetype
 0,Apple,Ultrabook,13.3,8,1.37,1339.69,Standard,No,2.3,128,SSD
 1,Apple,Ultrabook,13.3,8,1.34,898.94,Standard,No,1.8,128,Flash Storage
 2,HP,Notebook,15.6,8,1.86,575,Full HD,No,2.5,256,SSD
