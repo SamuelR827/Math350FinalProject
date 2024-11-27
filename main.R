@@ -67,3 +67,17 @@ for (col in subset_columns) {
 }
 
 
+# Predicted vs. Actual
+predicted <- predict(full_model)
+actual <- laptop_prices_modified$price_euros
+
+# Scatter plot
+par(mfrow = c(1, 1))
+plot(actual, predicted, 
+     xlab = "Actual Prices", 
+     ylab = "Predicted Prices", 
+     main = "Predicted vs. Actual Prices")
+abline(0, 1, col = "red")  # Add a y = x line
+
+
+
