@@ -1,5 +1,6 @@
 library(readr)
 library(ggplot2)
+library(dplyr)
 laptop_prices_modified <- read_csv("laptop_prices_modified.csv")
 
 subset_columns <- c("inches", "ram", "weight", "storageamount") # "storagetype", "company"
@@ -73,6 +74,20 @@ for (col in subset_columns) {
   print(p)
 }
 
+# Partial dependence on Company
+laptop_prices_modified$company_factor_ordered <- reorder(
+  laptop_prices_modified$company_factor,
+  laptop_prices_modified$price_euros,
+  FUN = median
+)
+# Plot with reordered factor levels
+ggplot(data = laptop_prices_modified, aes(x = company_factor_ordered, y = price_euros)) +
+  geom_point(alpha = 0.5) +  # Add data points
+  geom_smooth(method = "lm", formula = y ~ x, se = TRUE, color = "blue") +  # Add regression line
+  labs(title = "Effect of Company on Price", x = "Company (Ordered by Average Price)", y = "Price (Euros)") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
 # Fit the full linear model
 full_model <- lm(price_euros ~ inches + ram + weight + storageamount + 
                    storage_type_factor + company_factor, data = laptop_prices_modified)
@@ -102,4 +117,5 @@ summary(log_model)
 # Generate the diagnostic plots for the log-transformed model
 par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
 plot(log_model, main = "Diagnostics for Log-Transformed Model")
+
 
