@@ -174,7 +174,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 199,HP,Notebook,17.3,8,2.5,1045,Full HD,No,1.8,256,SSD
 201,Lenovo,Notebook,15.6,4,2.1,493,Standard,No,2.3,128,SSD
 202,Acer,Notebook,15.6,8,2.23,742,Full HD,No,2.7,1024,HDD
-204,Dell,Workstation,15.6,16,2.8,3055,4K Ultra HD,No,3,256,SSD
 206,Dell,Notebook,15.6,6,2.3,439,Standard,Yes,2.4,1024,HDD
 207,Dell,Ultrabook,13.3,8,1.21,1949,4K Ultra HD,Yes,1.8,256,SSD
 208,Dell,Ultrabook,13.3,8,1.2,1449,Full HD,No,1.8,256,SSD
@@ -252,7 +251,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 293,Dell,Notebook,15.6,8,2,1829,Full HD,No,2.8,256,SSD
 294,Lenovo,Notebook,15.6,8,2.05,739,Full HD,No,1.6,256,SSD
 296,Acer,Notebook,15.6,8,2.5,979,Full HD,No,2.8,256,SSD
-297,Dell,Workstation,17.3,16,3.42,2884.86,Full HD,No,2.9,256,SSD
 298,Lenovo,Notebook,15.6,6,2.4,499,Full HD,No,2.4,1024,HDD
 299,Asus,Ultrabook,15.6,16,1.63,1468,Full HD,No,2.7,512,SSD
 300,Asus,Notebook,14,4,1.3,509,Standard,No,2.4,128,SSD
@@ -301,7 +299,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 349,Dell,Ultrabook,15.6,8,1.9,663,Full HD,No,1.6,1024,HDD
 350,Dell,Notebook,15.6,16,2.06,2027.42,4K Ultra HD,Yes,2.8,512,SSD
 351,HP,Notebook,15.6,8,1.84,1304,Full HD,No,2.7,256,SSD
-353,HP,Workstation,15.6,8,2.6,1738.27,Full HD,No,2.8,256,SSD
 354,Toshiba,Notebook,15.6,16,2.4,1403,Full HD,No,2.5,512,SSD
 355,Dell,Notebook,15.6,8,2.02,970.9,Full HD,No,1.8,128,SSD
 356,Lenovo,Notebook,15.6,4,2.2,321.99,Standard,No,1.1,1024,HDD
@@ -330,15 +327,12 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 384,Asus,Ultrabook,13.3,16,1.1,1748.9,Full HD,Yes,2.7,512,SSD
 385,Lenovo,Ultrabook,14,8,1.13,2282,Standard,No,2.7,512,SSD
 386,Lenovo,Notebook,13.3,4,1.5,549,Full HD,No,2.4,128,SSD
-387,Dell,Workstation,15.6,8,2.23,1369,Full HD,No,2.6,500,HDD
-388,Dell,Workstation,15.6,8,2,2135,Full HD,No,2.7,256,SSD
 389,Lenovo,2 in 1 Convertible,14,16,1.42,2509,Standard,Yes,2.7,512,SSD
 392,Acer,Notebook,15.6,12,2.2,693.99,Standard,No,1.6,1024,HDD
 394,Dell,Notebook,15.6,8,2.33,778.87,Full HD,No,2.7,256,SSD
 395,HP,Ultrabook,15.6,4,1.91,499,Full HD,No,3,256,SSD
 396,Lenovo,Notebook,15.6,8,2.1,1229.56,Full HD,No,1.8,256,SSD
 397,Lenovo,Notebook,14,8,1.9,938,Full HD,No,2.5,256,SSD
-398,Dell,Workstation,15.6,8,1.78,2712,4K Ultra HD,Yes,2.8,256,SSD
 399,Lenovo,Ultrabook,14,16,1.13,2625,Standard,No,2.7,1024,SSD
 400,Lenovo,Notebook,15.6,4,2.2,306,Standard,No,1.1,1024,HDD
 402,Lenovo,Notebook,15.6,8,2.1,1144.5,Full HD,No,1.6,256,SSD
@@ -348,7 +342,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 407,Dell,Ultrabook,14,8,1.36,1680,Full HD,No,2.8,512,SSD
 408,Lenovo,Notebook,15.6,4,2.2,409,Full HD,No,2,500,HDD
 409,Lenovo,Notebook,11.6,2,1.15,304.45,Standard,No,1.1,32,Flash Storage
-410,Lenovo,Workstation,15.6,8,2.67,1925,Full HD,No,2.8,512,SSD
 411,Lenovo,Ultrabook,14,8,1.7,1943,Full HD,No,2.8,512,SSD
 412,HP,Notebook,15.6,4,2.1,469,Full HD,No,2,1024,HDD
 413,Acer,2 in 1 Convertible,13.3,8,1.6,789.01,Full HD,Yes,2.5,256,SSD
@@ -368,7 +361,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 430,Samsung,Netbook,11.6,4,1.15,269,Standard,No,1.6,16,Flash Storage
 431,Lenovo,Notebook,13.3,8,1.4,1010,Full HD,No,2.7,256,SSD
 432,Lenovo,Notebook,14,4,1.7,599,Full HD,No,2.7,128,SSD
-433,Lenovo,Workstation,15.6,16,2.3,2445,4K Ultra HD,No,2.8,512,SSD
 434,Lenovo,Notebook,15.6,16,2.5,2449,Full HD,No,2.9,512,SSD
 436,HP,Notebook,15.6,4,2.1,347,Standard,No,1.6,500,HDD
 437,Google,Ultrabook,12.3,16,1.1,2199,Standard,Yes,1.3,512,SSD
@@ -380,11 +372,8 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 443,Lenovo,Notebook,15.6,4,2.2,349,Full HD,No,1.1,128,SSD
 445,Dell,Notebook,14,8,1.64,1179,Full HD,No,2.8,256,SSD
 446,Acer,Notebook,15.6,4,2.4,441.8,Standard,No,2.5,500,HDD
-447,Dell,Workstation,15.6,8,2.23,1993,Full HD,No,3,64,Flash Storage
 449,Microsoft,Ultrabook,13.5,16,1.25,2589,Standard,Yes,2.5,512,SSD
 450,HP,Notebook,15.6,8,1.91,589,Standard,No,2.5,128,SSD
-451,Dell,Workstation,15.6,16,2.17,1975,Full HD,No,2.7,256,SSD
-452,HP,Workstation,15.6,8,2.31,1534,Full HD,No,2.9,512,SSD
 453,Lenovo,Notebook,14,8,1.65,1345,Full HD,No,2.5,256,SSD
 454,Dell,Notebook,15.6,8,2.36,979,Full HD,No,1.8,128,SSD
 455,Dell,2 in 1 Convertible,11.6,4,1.47,479,Standard,Yes,1.6,500,HDD
@@ -407,7 +396,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 473,Dell,Ultrabook,13.3,8,1.42,1841.85,Full HD,Yes,1.6,256,SSD
 474,Asus,Notebook,15.6,12,2.06,1299,4K Ultra HD,No,2.6,128,SSD
 475,Dell,Notebook,14,8,1.79,740,Standard,No,2.3,128,SSD
-476,Dell,Workstation,15.6,8,1.78,2408,Full HD,No,2.8,256,SSD
 477,Lenovo,Notebook,14,8,1.7,1364,Full HD,No,2.5,180,SSD
 478,Dell,Notebook,15.6,8,2.2,675,Full HD,No,1.6,1024,HDD
 479,Toshiba,Notebook,13.3,8,1.05,1672,Full HD,No,2.5,256,SSD
@@ -417,7 +405,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 483,Chuwi,Notebook,15.6,4,1.89,248.9,Full HD,No,1.44,64,Flash Storage
 484,Lenovo,Notebook,15.6,4,2.3,565,Standard,No,2,128,SSD
 485,Lenovo,Notebook,14,8,1.75,1049,Full HD,No,1.6,256,SSD
-486,Dell,Workstation,15.6,16,2.17,2338,Full HD,No,2.7,512,SSD
 487,Dell,Notebook,15.6,16,2.06,1899,Full HD,No,2.8,512,SSD
 488,Lenovo,Ultrabook,12.5,16,1.36,1798,Full HD,No,2.7,512,SSD
 489,Asus,Ultrabook,12.5,16,0.91,1950,Full HD,No,2.7,512,SSD
@@ -490,7 +477,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 567,Fujitsu,Notebook,15.6,8,2.2,739,Standard,No,2.5,1024,HDD
 568,Lenovo,Notebook,15.6,4,2.2,344,Full HD,No,1.1,500,HDD
 569,Lenovo,Notebook,14,4,2.02,990,Standard,No,2.5,500,HDD
-570,HP,Workstation,17.3,8,3.14,1860.99,Standard,No,2.8,500,HDD
 571,HP,Notebook,14,8,1.94,389,Standard,No,1.6,2048,HDD
 572,HP,Notebook,15.6,6,1.95,649,Full HD,No,3,256,SSD
 573,Lenovo,Notebook,15.6,8,2.3,830,Full HD,No,2.5,256,SSD
@@ -514,7 +500,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 596,Lenovo,2 in 1 Convertible,13.3,8,1.37,2025,Full HD,Yes,2.7,512,SSD
 597,Lenovo,Notebook,14,8,1.7,1474,Full HD,No,2.5,256,SSD
 598,Dell,2 in 1 Convertible,12.5,8,1.34,1670,Full HD,Yes,2.5,256,SSD
-599,Dell,Workstation,15.6,8,2.06,1763,Full HD,Yes,2.8,256,SSD
 600,HP,Notebook,15.6,8,1.84,1219,Full HD,No,2.7,256,SSD
 601,HP,Notebook,15.6,4,2.1,668.48,Standard,No,2.4,500,HDD
 602,Acer,Notebook,14,4,1.6,329,Full HD,No,1.1,32,Flash Storage
@@ -587,7 +572,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 689,Lenovo,Notebook,15.6,4,2.1,318,Standard,No,1.6,500,HDD
 690,Acer,Notebook,14,4,1.45,375,Standard,No,1.6,32,Flash Storage
 691,Lenovo,Notebook,14,4,1.7,699,Full HD,No,2.5,256,SSD
-692,HP,Workstation,17.3,8,3.14,1907.99,Full HD,No,2.8,500,HDD
 693,Lenovo,2 in 1 Convertible,14,8,1.42,2590,Standard,Yes,2.7,256,SSD
 694,Toshiba,Notebook,13.3,8,1.5,973,Full HD,No,2.5,256,SSD
 695,Acer,Netbook,11.6,4,1.4,269,Standard,No,1.6,32,Flash Storage
@@ -601,7 +585,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 704,Lenovo,Notebook,15.6,4,1.9,450,Standard,No,2,500,HDD
 705,Dell,Notebook,15.6,8,2.18,795,Full HD,No,2.5,256,SSD
 706,Acer,2 in 1 Convertible,13.3,8,1.6,999,Full HD,Yes,1.6,256,SSD
-707,Lenovo,Workstation,15.6,16,2.18,1855,Full HD,No,2.5,512,SSD
 708,Lenovo,Notebook,14,8,1.8,1191,Full HD,No,2.3,256,SSD
 709,HP,Notebook,17.3,6,2.71,655.01,Full HD,No,2.5,2048,HDD
 711,Dell,Notebook,14,8,1.64,1089,Full HD,No,2.8,256,SSD
@@ -626,19 +609,16 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 733,Acer,Notebook,15.6,4,2.4,559,Standard,No,2.5,500,HDD
 734,Lenovo,Notebook,13.3,8,1.44,960,Full HD,No,2.5,256,SSD
 735,Lenovo,Notebook,15.6,4,1.85,779,Full HD,No,2.7,1024,HDD
-736,HP,Workstation,15.6,16,2.6,2419,Full HD,No,2.8,256,SSD
 737,Dell,2 in 1 Convertible,13.3,8,1.55,659,Full HD,Yes,1.6,1024,HDD
 739,Acer,Notebook,15.6,4,2.4,410.8,Standard,No,2,500,HDD
 740,Dell,Notebook,15.6,8,2,1207,Full HD,No,2.7,128,SSD
 741,Dell,Notebook,15.6,8,2,665,Standard,No,2,256,SSD
 742,Toshiba,Notebook,14,8,1.25,1535,Full HD,Yes,2.5,256,SSD
 743,Lenovo,2 in 1 Convertible,14,8,1.7,999,Full HD,Yes,2.5,256,SSD
-744,Lenovo,Workstation,15.6,16,2.5,3299,4K Ultra HD,No,2.8,1024,SSD
 745,Acer,Notebook,14,2,1.68,330,Standard,No,1.6,32,Flash Storage
 746,Samsung,Ultrabook,13.3,16,0.81,1649,Full HD,No,2.7,256,SSD
 747,HP,Notebook,15.6,8,1.86,539,Full HD,No,2,256,SSD
 748,Dell,Notebook,14,8,1.6,1126.71,Standard,No,2.5,256,SSD
-749,HP,Workstation,17.3,16,3,4389,Full HD,No,2.9,256,SSD
 750,Lenovo,Netbook,11.6,4,1.4,475,Standard,Yes,1.6,128,SSD
 751,HP,Notebook,15.6,8,1.84,1900,Full HD,No,2.4,256,SSD
 752,Asus,Notebook,15.6,4,2.45,579,Standard,No,2.3,1024,HDD
@@ -646,7 +626,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 754,Asus,Notebook,15.6,4,2.37,849.9,Standard,No,2.7,256,SSD
 755,Lenovo,2 in 1 Convertible,13.3,8,1.3,1199,Quad HD+,Yes,1.8,256,SSD
 756,HP,Notebook,15.6,8,2.2,1099,Full HD,No,2.5,128,SSD
-757,HP,Workstation,15.6,8,2.59,1561,Full HD,No,2.6,256,SSD
 759,Acer,Notebook,15.6,4,2.1,599,Standard,No,2.5,256,SSD
 761,Dell,Ultrabook,12.5,16,1.18,1859,Full HD,No,2.8,256,SSD
 762,Google,Ultrabook,12.3,8,1.1,1559,Standard,Yes,1.2,256,SSD
@@ -676,7 +655,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 797,Dell,Notebook,15.6,8,1.95,810,Standard,No,2.5,128,SSD
 798,Lenovo,2 in 1 Convertible,13.9,8,1.38,1349,Full HD,Yes,2.7,256,SSD
 799,Dell,Notebook,15.6,8,2,739,Full HD,No,2,256,SSD
-800,HP,Workstation,15.6,8,3.14,2064.9,Full HD,No,2.8,256,SSD
 801,Asus,Notebook,15.6,8,2.37,1099,Full HD,No,2.5,256,SSD
 802,Dell,Ultrabook,13.3,8,1.29,1499,Full HD,No,2.5,256,SSD
 803,Dell,Notebook,15.6,8,2.06,1749,4K Ultra HD,Yes,2.5,256,SSD
@@ -733,7 +711,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 866,Toshiba,Ultrabook,13.3,8,1.2,1095,Standard,No,2.3,256,SSD
 867,Lenovo,2 in 1 Convertible,13.3,8,1.37,1950,Full HD,Yes,2.7,256,SSD
 868,Acer,Notebook,14,8,1.56,902,Full HD,No,2.5,256,SSD
-869,Dell,Workstation,15.6,8,2.23,1778,Full HD,No,2.8,1024,HDD
 870,Lenovo,Notebook,15.6,4,2.38,1055,Standard,No,2.5,500,HDD
 871,Lenovo,Notebook,15.6,4,2.2,479,Full HD,No,2,1024,HDD
 872,Toshiba,Notebook,15.6,8,2,1388,Full HD,No,2.7,256,SSD
@@ -803,7 +780,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 947,Lenovo,Notebook,15.6,8,2.2,685,Full HD,No,2.7,1024,HDD
 948,Dell,Notebook,17.3,4,2.36,659,Standard,No,2,1024,HDD
 949,Acer,Notebook,14,4,1.68,349,Standard,No,1.6,32,Flash Storage
-950,HP,Workstation,15.6,8,2,2249,Full HD,No,2.7,8,SSD
 951,Dell,Ultrabook,14,8,1.36,1775,Full HD,No,2.8,256,SSD
 952,Toshiba,Notebook,13.3,8,1.2,1460,Full HD,No,2.3,256,SSD
 953,Asus,2 in 1 Convertible,12.5,8,1.2,1159,Full HD,No,1.2,64,Flash Storage
@@ -920,7 +896,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 1083,HP,Ultrabook,13.3,16,1.3,2049,4K Ultra HD,No,2.7,512,SSD
 1084,Dell,Notebook,15.6,8,2.18,750,Full HD,No,2.5,256,SSD
 1085,HP,Notebook,14,4,1.54,1030.99,Full HD,No,2.3,500,HDD
-1086,HP,Workstation,15.6,8,1.9,1495,Full HD,No,2.5,256,SSD
 1087,Lenovo,Notebook,14,8,1.7,1199,Full HD,No,2.3,180,SSD
 1088,HP,Notebook,13.3,4,1.29,615,Quad HD+,No,1.5,32,Flash Storage
 1089,Acer,Notebook,15.6,4,2.4,387,Standard,No,2.2,500,HDD
@@ -934,7 +909,6 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 1100,Dell,Ultrabook,12.5,4,1.5,1135.15,Standard,No,2.3,500,HDD
 1101,Dell,Ultrabook,12.5,4,1.5,1166.97,Standard,No,2.3,128,SSD
 1102,Acer,Notebook,15.6,4,2.2,209,Standard,No,1.5,16,SSD
-1103,HP,Workstation,17.3,8,3,2899,Full HD,No,2.6,1024,HDD
 1105,Dell,Ultrabook,12.5,8,1.5,1413.1,Standard,No,2.3,256,SSD
 1107,Lenovo,2 in 1 Convertible,15.6,4,2.1,867,Full HD,Yes,2.3,256,SSD
 1108,HP,Notebook,15.6,4,2.1,398,Full HD,No,2.5,1024,HDD
@@ -960,14 +934,11 @@ id,company,typename,inches,ram,weight,price_euros,screen,touchscreen,CPU_freq,st
 1133,HP,Ultrabook,15.6,8,1.84,752,Full HD,No,2.7,256,SSD
 1134,Acer,Notebook,15.6,4,2.23,616,Full HD,No,2.5,1024,HDD
 1135,Lenovo,Notebook,15.6,16,2.5,1099,Full HD,No,2.5,1024,Hybrid
-1136,HP,Workstation,17.3,8,3,3949.4,Full HD,No,2.6,256,SSD
 1137,Dell,Notebook,15.6,8,2.5,784,Standard,No,2.5,1024,HDD
 1139,HP,Ultrabook,15.6,8,1.88,2171.72,Full HD,No,2.5,256,SSD
 1140,Lenovo,2 in 1 Convertible,14,16,2.8,2440,Standard,Yes,2.6,512,SSD
 1142,HP,2 in 1 Convertible,13.3,8,1.48,1629,Full HD,Yes,2.4,256,SSD
-1143,HP,Workstation,15.6,8,2.59,2229,Full HD,No,2.6,256,SSD
 1144,HP,2 in 1 Convertible,13.3,8,1.48,1799,Standard,Yes,2.6,256,SSD
-1145,HP,Workstation,15.6,8,2,1899,Full HD,No,2.6,256,SSD
 1146,HP,Ultrabook,12.5,8,1.26,2296.95,Full HD,No,2.5,256,SSD
 1147,Dell,Notebook,15.6,8,2.18,1009.9,Full HD,No,2.7,256,SSD
 1148,HP,Notebook,15.6,8,1.88,1579,Full HD,No,2.3,256,SSD
