@@ -39,3 +39,11 @@ for (col in subset_columns) {
   plot(model, main = paste("Diagnostics for", toupper(col)))
 }
 
+# multiple regression model
+laptop_prices_modified$company_factor <- as.factor(laptop_prices_modified$company)
+laptop_prices_modified$storage_type_factor <- as.factor(laptop_prices_modified$storagetype)
+full_model = lm(
+  price_euros ~ inches + ram + weight + storageamount + storage_type_factor + company_factor,
+  data = laptop_prices_modified
+)
+summary(full_model)
