@@ -31,4 +31,11 @@ for (col in subset_columns) {
   }
 }
 
-#
+# Generate Diagnostics Plots
+for (col in subset_columns) {
+  print(toupper(col)) 
+  formula <- as.formula(paste("price_euros ~", col))
+  model <- lm(formula, data = laptop_prices_modified)
+  par(mfrow = c(2, 2))
+  plot(model, main = paste("Diagnostics for", toupper(col)))
+}
