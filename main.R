@@ -1,7 +1,8 @@
 library(readr)
+library(ggplot2)
 laptop_prices_modified <- read_csv("laptop_prices_modified.csv")
 
-subset_columns <- c("inches", "ram", "weight", "storageamount", "storagetype") # "company"
+subset_columns <- c("inches", "ram", "weight", "storageamount") # "storagetype", "company"
 
 # Summarize data
 for (col in subset_columns) {
@@ -61,4 +62,15 @@ plot(actual, predicted,
 abline(0, 1, col = "red")  # Add a y = x line
 
 
+# Partial dependence plots
+for (col in subset_columns) {
+  p <- ggplot(data = laptop_prices_modified, aes_string(x = col, y = "price_euros")) +
+    geom_point(alpha = 0.5) +  # Add data points
+    geom_smooth(method = "lm", formula = y ~ x, se = TRUE, color = "blue") +  # Add regression line
+    labs(title = paste("Effect of", col, "on Price"), 
+         x = col, 
+         y = "Price (Euros)")
+  
+  print(p)
+}
 
