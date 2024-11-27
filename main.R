@@ -48,7 +48,6 @@ for (col in subset_columns) {
   plot(model, main = paste("Diagnostics for", toupper(col)))
 }
 
-
 # Predicted vs. Actual
 predicted <- predict(full_model)
 actual <- laptop_prices_modified$price_euros
@@ -73,4 +72,34 @@ for (col in subset_columns) {
   
   print(p)
 }
+
+# Fit the full linear model
+full_model <- lm(price_euros ~ inches + ram + weight + storageamount + 
+                   storage_type_factor + company_factor, data = laptop_prices_modified)
+
+# Generate the diagnostic plots for the full model
+par(mfrow = c(2, 2))  # Arrange the plots in a 2x2 grid
+
+# Residuals vs. Fitted plot
+plot(full_model, main = "Residuals vs. Fitted")
+
+# Apply log transformation to the full model
+laptop_prices_modified$log_price <- log(laptop_prices_modified$price_euros)
+laptop_prices_modified$log_inches <- log(laptop_prices_modified$inches)
+laptop_prices_modified$log_ram <- log(laptop_prices_modified$ram)
+laptop_prices_modified$log_weight <- log(laptop_prices_modified$weight)
+laptop_prices_modified$log_storageamount <- log(laptop_prices_modified$storageamount)
+
+# Fit the model with log-transformed variables
+log_formula <- log_price ~ log_inches + log_ram + log_weight + log_storageamount + 
+  storage_type_factor + company_factor
+
+log_model <- lm(log_formula, data = laptop_prices_modified)
+
+# Print the summary of the transformed model
+summary(log_model)
+
+# Generate the diagnostic plots for the log-transformed model
+par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+plot(log_model, main = "Diagnostics for Log-Transformed Model")
 
