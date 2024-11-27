@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 laptop_prices_modified <- read_csv("laptop_prices_modified.csv")
 
-subset_columns <- c("inches", "ram", "weight", "storageamount") # "storagetype", "company"
+subset_columns <- c("inches", "ram", "weight", "storageamount", "CPU_freq") # "storagetype", "company"
 
 # Summarize data
 for (col in subset_columns) {
