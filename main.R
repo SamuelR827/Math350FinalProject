@@ -220,3 +220,11 @@ names(storage_summary)[2:3] <- c("min_storage", "max_storage")
 print(storage_summary)
 
 
+# Select numeric columns including price_euros
+numeric_data <- laptop_prices_modified[, c("price_euros", "inches", "ram", "weight", "storageamount", "CPU_freq")]
+
+# Scatter plot matrix
+pairs(numeric_data, 
+      main = "Scatter Plot Matrix with Price (Y)", 
+      pch = 19, col = "blue",
+      labels = c("Price (€)", "Inches", "RAM", "Weight", "Storage", "CPU_freq"))
