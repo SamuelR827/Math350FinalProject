@@ -232,3 +232,10 @@ pairs(numeric_data,
       pch = 19, col = "blue",
       labels = c("Price (€)", "Inches", "RAM", "Weight", "Storage", "CPU_freq"))
 
+
+# Add cors
+quantitative_data <- laptop_prices_modified[, c("price_euros", "inches", "ram", "weight", "storageamount", "CPU_freq")]
+# Pearson correlation matrix
+cor_matrix <- cor(quantitative_data, method = "pearson")
+print(cor_matrix)
+
