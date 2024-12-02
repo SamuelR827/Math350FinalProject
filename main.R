@@ -152,3 +152,28 @@ company_ram = lm(
 summary(company_ram)
 
 
+company_storage_amount = lm(
+  price_euros ~ storageamount + company_factor,
+  data = laptop_prices_modified
+)
+summary(company_storage_amount)
+
+company_inches = lm(
+  price_euros ~ inches + company_factor,
+  data = laptop_prices_modified
+)
+summary(company_inches)
+
+company_weight = lm(
+  price_euros ~ weight + company_factor,
+  data = laptop_prices_modified
+)
+summary(company_weight)
+
+company_weight_inches = lm(
+  price_euros ~ inches + weight + company_factor,
+  data = laptop_prices_modified
+)
+summary(company_weight_inches)
+
+
