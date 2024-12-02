@@ -177,3 +177,33 @@ company_weight_inches = lm(
 summary(company_weight_inches)
 
 
+subset_000_200 <- subset(laptop_prices_modified, storageamount >= 0 & storageamount < 200)
+subset_200_400 <- subset(laptop_prices_modified, storageamount >= 200 & storageamount < 400)
+subset_400_600 <- subset(laptop_prices_modified, storageamount >= 400 & storageamount < 600)
+subset_600_1200 <- subset(laptop_prices_modified, storageamount >= 600 & storageamount < 1200)
+subset_1200_2200 <- subset(laptop_prices_modified, storageamount >= 1200 & storageamount < 2200)
+lm_000_200 <- lm(price_euros ~ inches + weight, data = subset_000_200)
+lm_200_300 <- lm(price_euros ~ inches + weight, data = subset_200_400)
+lm_400_600 <- lm(price_euros ~ inches + weight, data = subset_400_600)
+lm_600_1200 <- lm(price_euros ~ inches + weight, data = subset_600_1200)
+lm_1200_2200 <- lm(price_euros ~ inches + weight, data = subset_1200_2200)
+
+laptop_prices_modified$storage_range <- cut(
+  laptop_prices_modified$storageamount,
+  breaks = c(0, 200, 400, 600, 1200, 2200),  # Define range endpoints
+  labels = c("0-200GB", "200-400GB", "400-600GB", "600-1200GB", "1200-2200GB"),
+  right = FALSE  # Use left-closed intervals [a, b)
+)
+
+
+lm_with_ranges <- lm(price_euros ~ inches + weight + storage_range, data = laptop_prices_modified)
+summary(lm_with_ranges)
+
+table(laptop_prices_modified$storage_range)
+
+ggplot(laptop_prices_modified, aes(x = storage_range, y = price_euros)) +
+  #geom_boxplot(outlier.color = "red", alpha = 0.7) +  # Boxplot with slightly transparent boxes
+  geom_jitter(width = 0.2, alpha = 0.5, color = "blue") +  # Jittered points for raw data
+  labs(title = "Price by Storage Range", x = "Storage Range", y = "Price (Euros)") +
+  theme_minimal()
+
