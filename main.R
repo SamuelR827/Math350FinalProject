@@ -26,10 +26,17 @@ for (col in subset_columns) {
 laptop_prices_modified$company_factor <- as.factor(laptop_prices_modified$company)
 laptop_prices_modified$storage_type_factor <- as.factor(laptop_prices_modified$storagetype)
 full_model = lm(
-  price_euros ~ inches + ram + weight + storageamount + storage_type_factor + company_factor,
+  price_euros ~ inches + ram + weight + storageamount + 
+    storage_type_factor + company_factor + CPU_freq,
   data = laptop_prices_modified
 )
 summary(full_model)
+
+quantative_model = lm(
+  price_euros ~ inches + ram + weight + storageamount + CPU_freq,
+  data = laptop_prices_modified
+)
+summary(quantative_model)
 
 # Apply logarithmic transformation to the relevant columns and then fit the models
 for (col in subset_columns) {
@@ -87,10 +94,6 @@ ggplot(data = laptop_prices_modified, aes(x = company_factor_ordered, y = price_
   labs(title = "Effect of Company on Price", x = "Company (Ordered by Average Price)", y = "Price (Euros)") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-
-# Fit the full linear model
-full_model <- lm(price_euros ~ inches + ram + weight + storageamount + 
-                   storage_type_factor + company_factor, data = laptop_prices_modified)
 
 # Generate the diagnostic plots for the full model
 par(mfrow = c(2, 2))  # Arrange the plots in a 2x2 grid
@@ -228,3 +231,4 @@ pairs(numeric_data,
       main = "Scatter Plot Matrix with Price (Y)", 
       pch = 19, col = "blue",
       labels = c("Price (€)", "Inches", "RAM", "Weight", "Storage", "CPU_freq"))
+
