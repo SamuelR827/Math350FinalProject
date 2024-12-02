@@ -32,6 +32,12 @@ full_model = lm(
 )
 summary(full_model)
 
+quantative_model = lm(
+  price_euros ~ inches + ram + weight + storageamount + CPU_freq,
+  data = laptop_prices_modified
+)
+summary(quantative_model)
+
 # Apply logarithmic transformation to the relevant columns and then fit the models
 for (col in subset_columns) {
   print(toupper(col)) 
@@ -215,5 +221,6 @@ storage_summary <- aggregate(storageamount ~ storage_range, data = laptop_prices
 storage_summary <- do.call(data.frame, storage_summary)
 names(storage_summary)[2:3] <- c("min_storage", "max_storage")
 print(storage_summary)
+
 
 
