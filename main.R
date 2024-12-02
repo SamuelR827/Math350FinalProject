@@ -119,3 +119,36 @@ par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
 plot(log_model, main = "Diagnostics for Log-Transformed Model")
 
 
+
+# Singular Comparison Models
+weight_inches = lm(
+  price_euros ~ inches + weight,
+  data = laptop_prices_modified
+)
+summary(weight_inches)
+
+storage_amount_type = lm(
+  price_euros ~ storageamount + storage_type_factor,
+  data = laptop_prices_modified
+)
+summary(storage_amount_type)
+
+freq_ram = lm(
+  price_euros ~ CPU_freq + ram,
+  data = laptop_prices_modified
+)
+summary(freq_ram)
+
+company_freq = lm(
+  price_euros ~ CPU_freq + company_factor,
+  data = laptop_prices_modified
+)
+summary(company_freq)
+
+company_ram = lm(
+  price_euros ~ ram + company_factor,
+  data = laptop_prices_modified
+)
+summary(company_ram)
+
+
