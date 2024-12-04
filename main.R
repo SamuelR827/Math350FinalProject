@@ -54,7 +54,7 @@ for (col in subset_columns) {
   
   # Generate diagnostics plots
   par(mfrow = c(2, 2))
-  plot(model, main = paste("Diagnostics for", toupper(col)))
+  plot(model, main = paste("Log Diagnostics for", toupper(col)))
 }
 
 # Predicted vs. Actual
