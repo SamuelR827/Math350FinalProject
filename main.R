@@ -263,3 +263,20 @@ ggplot(agg_data, aes(x = company_factor, y = storage_type_factor, fill = price_e
   theme_minimal() +
   ggtitle("Average Price by Company and Storage Type")
 
+
+# Filter out rows where storageamount > 600
+filtered_data <- laptop_prices_modified %>%
+  filter(storageamount <= 1100)
+
+# Refit the model
+filtered_model <- lm(price_euros ~ storageamount, data = filtered_data)
+
+# Scatter plot with regression line
+plot(filtered_data$storageamount, filtered_data$price_euros, 
+     xlab = "Storage Amount (GB)", 
+     ylab = "Price (Euros)", 
+     main = "Price vs Storage Amount (Filtered)",
+     pch = 19, col = "black")  # Scatter plot points
+abline(filtered_model, col = "red", lwd = 2)  # Regression line
+
+
