@@ -310,4 +310,22 @@ ggplot(laptop_prices_modified, aes(x = reorder(company_factor, price_euros, FUN 
   )
 
 
+# Price per gigabyte storage per company histogram
+# Step 1: Calculate price per gigabyte
+laptop_prices_modified <- laptop_prices_modified %>%
+  mutate(price_per_gb = price_euros / storageamount)
+# Step 2: Create the plot
+ggplot(laptop_prices_modified, aes(x = reorder(company_factor, price_per_gb, FUN = median), y = price_per_gb, fill = company_factor)) +
+  geom_boxplot(outlier.size = 1, outlier.color = "red", alpha = 0.7) +  # Boxplot of price per GB
+  theme_minimal() +
+  labs(
+    title = "Price per Gigabyte of Storage by Company (Ordered by Median)",
+    x = "Company",
+    y = "Price per GB (€)",
+    fill = "Company"
+  ) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),  # Rotate x-axis labels
+    legend.position = "none"  # Remove the color guide
+  )
 
