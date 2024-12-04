@@ -1,6 +1,7 @@
 library(readr)
 library(ggplot2)
 library(dplyr)
+library(reshape2)
 laptop_prices_modified <- read_csv("laptop_prices_modified.csv")
 
 subset_columns <- c("inches", "ram", "weight", "storageamount", "CPU_freq") # "storagetype", "company"
@@ -238,4 +239,27 @@ quantitative_data <- laptop_prices_modified[, c("price_euros", "inches", "ram", 
 # Pearson correlation matrix
 cor_matrix <- cor(quantitative_data, method = "pearson")
 print(cor_matrix)
+
+
+# Select numeric columns
+numeric_data <- laptop_prices_modified[, c("price_euros", "inches", "ram", "weight", "CPU_freq", "storageamount")]
+# Calculate correlation matrix
+cor_matrix <- cor(numeric_data, use = "complete.obs")
+# Melt the matrix for ggplot2
+cor_melt <- melt(cor_matrix)
+# Plot the heatmap
+ggplot(data = cor_melt, aes(x = Var1, y = Var2, fill = value)) +
+  geom_tile() +
+  scale_fill_gradient2(low = "blue", mid = "white", high = "red", midpoint = 0) +
+  theme_minimal() +
+  ggtitle("Correlation Heatmap")
+
+
+agg_data <- aggregate(price_euros ~ company_factor + storage_type_factor, data = laptop_prices_modified, FUN = mean)
+# Plot the heatmap
+ggplot(agg_data, aes(x = company_factor, y = storage_type_factor, fill = price_euros)) +
+  geom_tile() +
+  scale_fill_gradient(low = "yellow", high = "red") +
+  theme_minimal() +
+  ggtitle("Average Price by Company and Storage Type")
 
