@@ -280,3 +280,17 @@ plot(filtered_data$storageamount, filtered_data$price_euros,
 abline(filtered_model, col = "red", lwd = 2)  # Regression line
 
 
+# Laptop Size by Weight Heatmap
+laptop_prices_modified$inches_bin <- cut(laptop_prices_modified$inches, breaks = 5)
+laptop_prices_modified$weight_bin <- cut(laptop_prices_modified$weight, breaks = 5)
+# Aggregate price by bins
+price_bins <- aggregate(price_euros ~ inches_bin + weight_bin, data = laptop_prices_modified, FUN = mean, na.rm = TRUE)
+# Plot the heatmap
+ggplot(price_bins, aes(x = inches_bin, y = weight_bin, fill = price_euros)) +
+  geom_tile() +
+  scale_fill_gradient(low = "lightblue", high = "darkblue") +
+  theme_minimal() +
+  labs(title = "Price Distribution by Laptop Size and Weight", x = "Screen Size (Inches)", y = "Weight (kg)", fill = "Avg Price (€)") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
