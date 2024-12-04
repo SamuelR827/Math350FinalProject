@@ -294,3 +294,20 @@ ggplot(price_bins, aes(x = inches_bin, y = weight_bin, fill = price_euros)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 
+#Storage Histogram by Company
+ggplot(laptop_prices_modified, aes(x = reorder(company_factor, price_euros, FUN = median), y = price_euros, fill = company_factor)) +
+  geom_boxplot(outlier.size = 1, outlier.color = "red", alpha = 0.7) +
+  theme_minimal() +
+  labs(
+    title = "Price Distribution by Company (Ordered by Median Price)",
+    x = "Company",
+    y = "Price (€)",
+    fill = "Company"
+  ) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "none"  # Remove the color guide (legend) on the right
+  )
+
+
+
