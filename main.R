@@ -2,6 +2,7 @@ library(readr)
 library(ggplot2)
 library(dplyr)
 library(reshape2)
+library(car)
 laptop_prices_modified <- read_csv("laptop_prices_modified.csv")
 
 subset_columns <- c("inches", "ram", "weight", "storageamount", "CPU_freq") # "storagetype", "company"
@@ -39,6 +40,12 @@ quantative_model = lm(
 )
 summary(quantative_model)
 
+interactive_model = lm(
+  price_euros ~ inches*weight + ram + storageamount + CPU_freq,
+  data = laptop_prices_modified
+)
+summary(interactive_model)
+
 # Apply logarithmic transformation to the relevant columns and then fit the models
 for (col in subset_columns) {
   print(toupper(col)) 
@@ -48,13 +55,13 @@ for (col in subset_columns) {
     transformed_data[[paste0("log_", col)]] <- log(transformed_data[[col]])
   }
   formula <- as.formula(paste("log_price ~", paste0("log_", col)))
-  model <- lm(formula, data = transformed_data)
-  fitted_values <- fitted(model)
-  residuals_values <- residuals(model)
+  fitted_model <- lm(formula, data = transformed_data)
+  fitted_values <- fitted(fitted_model)
+  residuals_values <- residuals(fitted_model)
   
   # Generate diagnostics plots
   par(mfrow = c(2, 2))
-  plot(model, main = paste("Log Diagnostics for", toupper(col)))
+  plot(fitted_model, main = paste("Log Diagnostics for", toupper(col)))
 }
 
 # Predicted vs. Actual
@@ -68,7 +75,6 @@ plot(actual, predicted,
      ylab = "Predicted Prices", 
      main = "Predicted vs. Actual Prices")
 abline(0, 1, col = "red")  # Add a y = x line
-
 
 # Partial dependence plots
 for (col in subset_columns) {
@@ -122,7 +128,17 @@ summary(log_model)
 par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
 plot(log_model, main = "Diagnostics for Log-Transformed Model")
 
+# Predicted vs. Actual (log)
+predicted <- predict(log_model)
+actual <- laptop_prices_modified$price_euros
 
+# Scatter plot
+par(mfrow = c(1, 1))
+plot(actual, predicted, 
+     xlab = "Actual Prices", 
+     ylab = "Predicted Prices", 
+     main = "Predicted vs. Actual Prices")
+abline(0, 1, col = "red")  # Add a y = x line
 
 # Singular Comparison Models
 weight_inches = lm(
@@ -348,4 +364,57 @@ ggplot(laptop_prices_modified, aes(x = reorder(company_factor, price_per_gb, FUN
     axis.text.x = element_text(angle = 45, hjust = 1),  # Rotate x-axis labels
     legend.position = "none"  # Remove the color guide
   )
+
+# Function to plot Price vs Storage Amount for Storage <= 530GB
+plot_price_vs_storage <- function(data, max_storage = 530) {
+  filtered_data <- data %>% filter(storageamount <= max_storage)
+  
+  ggplot(filtered_data, aes(x = storageamount, y = price_euros)) +
+    geom_point(color = "black", alpha = 0.6) +
+    geom_smooth(method = "lm", se = TRUE, color = "red", linetype = "dashed") +
+    labs(
+      title = paste("Relationship Between Price and Storage (Storage <= ", max_storage, "GB)", sep = ""),
+      x = "Storage Amount (GB)",
+      y = "Price (Euros)"
+    ) +
+    theme_minimal()
+}
+
+# Call the function with your data
+plot_price_vs_storage(laptop_prices_modified)
+
+
+# Calculate partial R2 - Removes inches
+# Full Model
+full_model <- lm(price_euros ~ inches + ram + weight + storageamount + CPU_freq,
+                 data = laptop_prices_modified)
+r2_full <- summary(full_model)$r.squared
+# Define a list of reduced models
+reduced_models <- list(
+  "No storageamount" = lm(price_euros ~ inches + ram + weight + CPU_freq, data = laptop_prices_modified),
+  "No CPU_freq" = lm(price_euros ~ inches + ram + weight + storageamount, data = laptop_prices_modified),
+  "No weight" = lm(price_euros ~ inches + ram + storageamount + CPU_freq, data = laptop_prices_modified),
+  "No ram" = lm(price_euros ~ inches + weight + storageamount + CPU_freq, data = laptop_prices_modified),
+  "No inches" = lm(price_euros ~ ram + weight + storageamount + CPU_freq, data = laptop_prices_modified)
+)
+# Calculate Partial R^2 for each model
+partial_r2 <- sapply(reduced_models, function(model) {
+  r2_reduced <- summary(model)$r.squared
+  (r2_full - r2_reduced) / (1 - r2_reduced)
+})
+# Display Partial R^2 values with rounding to three decimal places
+partial_r2_table <- data.frame(
+  Partial_R2 = round(partial_r2, 4)
+)
+print(partial_r2_table)
+
+vif(full_model)
+
+simplified_model <- lm(price_euros ~ ram + inches*weight + storageamount + CPU_freq,
+             data = laptop_prices_modified)
+vif(simplified_model, type = 'predictor')
+summary(simplified_model)
+
+
+
 
