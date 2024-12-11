@@ -28,7 +28,7 @@ for (col in subset_columns) {
 laptop_prices_modified$company_factor <- as.factor(laptop_prices_modified$company)
 laptop_prices_modified$storage_type_factor <- as.factor(laptop_prices_modified$storagetype)
 full_model = lm(
-  price_euros ~ inches + ram + weight + storageamount + 
+  price_euros ~ inches*weight + ram + storageamount + 
     storage_type_factor + company_factor + CPU_freq,
   data = laptop_prices_modified
 )
@@ -430,7 +430,6 @@ plot_price_vs_storage <- function(data, max_storage = 530) {
 plot_price_vs_storage(laptop_prices_modified)
 
 
-<<<<<<< HEAD
 # Calculate partial R2 - Removes inches
 # Full Model
 full_model <- lm(price_euros ~ inches + ram + weight + storageamount + CPU_freq,
@@ -465,5 +464,3 @@ summary(simplified_model)
 
 
 
-=======
->>>>>>> 1f48cc8438efd38aa1a20a9aedb9ad8f4219fa14
