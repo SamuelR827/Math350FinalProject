@@ -104,9 +104,8 @@ ggplot(data = laptop_prices_modified, aes(x = company_factor_ordered, y = price_
 
 # Generate the diagnostic plots for the full model
 par(mfrow = c(2, 2))  # Arrange the plots in a 2x2 grid
-
-# Residuals vs. Fitted plot
-plot(full_model, main = "Residuals vs. Fitted")
+  # Residuals vs. Fitted plot
+  plot(full_model, main = "Residuals vs. Fitted")
 
 # Apply log transformation to the full model
 laptop_prices_modified$log_price <- log(laptop_prices_modified$price_euros)
@@ -140,62 +139,109 @@ plot(actual, predicted,
      main = "Predicted vs. Actual Prices")
 abline(0, 1, col = "red")  # Add a y = x line
 
-# Singular Comparison Models
-weight_inches = lm(
-  price_euros ~ inches + weight,
-  data = laptop_prices_modified
-)
-summary(weight_inches)
+########################################
+# Singular & Multiple Comparison Models
+########################################
+{
+  weight_inches = lm(
+    price_euros ~ inches + weight,
+    data = laptop_prices_modified
+  )
+  summary(weight_inches)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(weight_inches, main = "Diagnostics: Weight + Inches")
+  
+  storage_amount_type = lm(
+    price_euros ~ storageamount + storage_type_factor,
+    data = laptop_prices_modified
+  )
+  summary(storage_amount_type)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(storage_amount_type, main = "Diagnostics: Storage Amount + Type")
+  
+  freq_ram = lm(
+    price_euros ~ CPU_freq + ram,
+    data = laptop_prices_modified
+  )
+  summary(freq_ram)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(freq_ram, main = "Diagnostics: CPU Freq + RAM")
+  
+  company_freq = lm(
+    price_euros ~ CPU_freq + company_factor,
+    data = laptop_prices_modified
+  )
+  summary(company_freq)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(company_freq, main = "Diagnostics: CPU Freq + Company")
+  
+  company_ram = lm(
+    price_euros ~ ram + company_factor,
+    data = laptop_prices_modified
+  )
+  summary(company_ram)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(company_ram, main = "Diagnostics: Company + RAM")
+  
+  company_storage_amount = lm(
+    price_euros ~ storageamount + company_factor,
+    data = laptop_prices_modified
+  )
+  summary(company_storage_amount)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(company_storage_amount, main = "Diagnostics: Company + Storage Amount")
+  
+  company_inches = lm(
+    price_euros ~ inches + company_factor,
+    data = laptop_prices_modified
+  )
+  summary(company_inches)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(company_inches, main = "Diagnostics: Company + Inches")
+  
+  company_weight = lm(
+    price_euros ~ weight + company_factor,
+    data = laptop_prices_modified
+  )
+  summary(company_weight)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(company_weight, main = "Diagnostics: Company + Weight")
+  
+  company_weight_inches = lm(
+    price_euros ~ inches + weight + company_factor,
+    data = laptop_prices_modified
+  )
+  summary(company_weight_inches)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(company_weight_inches, main = "Diagnostics: Company + Weight + Inches")
+}
 
-storage_amount_type = lm(
-  price_euros ~ storageamount + storage_type_factor,
-  data = laptop_prices_modified
-)
-summary(storage_amount_type)
-
-freq_ram = lm(
-  price_euros ~ CPU_freq + ram,
-  data = laptop_prices_modified
-)
-summary(freq_ram)
-
-company_freq = lm(
-  price_euros ~ CPU_freq + company_factor,
-  data = laptop_prices_modified
-)
-summary(company_freq)
-
-company_ram = lm(
-  price_euros ~ ram + company_factor,
-  data = laptop_prices_modified
-)
-summary(company_ram)
-
-
-company_storage_amount = lm(
-  price_euros ~ storageamount + company_factor,
-  data = laptop_prices_modified
-)
-summary(company_storage_amount)
-
-company_inches = lm(
-  price_euros ~ inches + company_factor,
-  data = laptop_prices_modified
-)
-summary(company_inches)
-
-company_weight = lm(
-  price_euros ~ weight + company_factor,
-  data = laptop_prices_modified
-)
-summary(company_weight)
-
-company_weight_inches = lm(
-  price_euros ~ inches + weight + company_factor,
-  data = laptop_prices_modified
-)
-summary(company_weight_inches)
-
+# Log transformed models that looked interesting
+{ # Not currently log transformed as of 2024-12-10T12:11PM EST
+  weight_inches = lm(
+    price_euros ~ inches + weight,
+    data = laptop_prices_modified
+  )
+  summary(weight_inches)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(weight_inches, main = "Diagnostics: Weight + Inches")
+  
+  freq_ram = lm(
+    price_euros ~ CPU_freq + ram,
+    data = laptop_prices_modified
+  )
+  summary(freq_ram)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(freq_ram, main = "Diagnostics: CPU Freq + RAM")
+  
+  company_freq = lm(
+    price_euros ~ CPU_freq + company_factor,
+    data = laptop_prices_modified
+  )
+  summary(company_freq)
+  par(mfrow = c(2, 2))  # Arrange the plot layout (2x2 grid)
+  plot(company_freq, main = "Diagnostics: CPU Freq + Company")
+}
 
 # Ranges
 subset_000_100 <- subset(laptop_prices_modified, storageamount >= 0 & storageamount < 100)
@@ -384,6 +430,7 @@ plot_price_vs_storage <- function(data, max_storage = 530) {
 plot_price_vs_storage(laptop_prices_modified)
 
 
+<<<<<<< HEAD
 # Calculate partial R2 - Removes inches
 # Full Model
 full_model <- lm(price_euros ~ inches + ram + weight + storageamount + CPU_freq,
@@ -418,3 +465,5 @@ summary(simplified_model)
 
 
 
+=======
+>>>>>>> 1f48cc8438efd38aa1a20a9aedb9ad8f4219fa14
